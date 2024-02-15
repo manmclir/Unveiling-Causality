@@ -16,25 +16,25 @@
 
 ## Overview
 
-Input File: train_subtask2_grouped.csv
-Code: eda_data_cleaning.ipynb (Function remove_backslash())
-Output File: cleaned_output_train_subtask2.csv
+- Input File: train_subtask2_grouped.csv
+- Code: eda_data_cleaning.ipynb (Function remove_backslash())
+- Output File: cleaned_output_train_subtask2.csv
 
-Input File: cleaned_output_train_subtask2.csv
-Code: eda_data_cleaning.ipynb
-Output File: output_cleaned_train_subtask2.txt
+- Input File: cleaned_output_train_subtask2.csv
+- Code: eda_data_cleaning.ipynb
+- Output File: output_cleaned_train_subtask2.txt
 
 
-Input File: output_cleaned_train_subtask2.txt
-Code repository: https://github.com/jasonwei20/eda_nlp/tree/master
-Modifications proposed in: text_clean
-Code execution: python code/augment.py --input=data/output_cleaned_train_subtask2.txt --output=data/eda_2_output_cleaned_train_subtask2.txt --num_aug=5 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.1 --alpha_rs=0.0
-Output File: eda_2_output_cleaned_train_subtask2.txt
+- Input File: output_cleaned_train_subtask2.txt
+- Code repository: https://github.com/jasonwei20/eda_nlp/tree/master
+- Modifications proposed in: text_clean
+- Code execution: python code/augment.py --input=data/output_cleaned_train_subtask2.txt --output=data/eda_2_output_cleaned_train_subtask2.txt --num_aug=5 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.1 --alpha_rs=0.0
+- Output File: eda_2_output_cleaned_train_subtask2.txt
 
-Input File: eda_2_output_cleaned_train_subtask2.txt
-Code: Data_Transformation.ipynb
-Output File: eda_2_output_transformed_train_subtask2.csv
+- Input File: eda_2_output_cleaned_train_subtask2.txt
+- Code: Data_Transformation.ipynb
+- Output File: eda_2_output_transformed_train_subtask2.csv
 
-Input File: eda_2_output_transformed_train_subtask2.csv
-Code: Post-Processing-test.ipynb
-Output: del_4_processed_eda_2_output_transformed_train_subtask2.csv
+- Input File: eda_2_output_transformed_train_subtask2.csv
+- Code: Post-Processing-test.ipynb
+- Output: del_4_processed_eda_2_output_transformed_train_subtask2.csv
