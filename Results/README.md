@@ -9,6 +9,7 @@
 - Epoch 7: F1 score of 0.731084776663628 (Traditional F1: 0.6802374893977947)
 - Epoch 8: F1 score of 0.7414104882459313 (Traditional F1: 0.6925675675675675)
 
+- Best Recorded F1 score: 0.7414104882459313
 ## Training Progress: Original DataSet
 
 - Epoch 1: F1 score of 0.5109947643979057 (Traditional F1: 0.471953578336557)
@@ -18,3 +19,5 @@
 - Epoch 6: F1 score of 0.6891385767790261 (Traditional F1: 0.6484581497797356)
 - Epoch 8: F1 score of 0.7000000000000001 (Traditional F1: 0.6637401229148375)
 - Epoch 9: F1 score of 0.7011070110701106 (Traditional F1: 0.6637554585152838)
+
+- Best Recorded F1 score: 0.7011070110701106
