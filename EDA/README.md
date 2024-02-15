@@ -9,6 +9,9 @@ eda_2_output_cleaned_train_subtask2.txt is generated using the eda code provided
 Also, to separate the sentences similar to each other if num_rs>1, the text cleaning function is modified and can be viewed in text_clean.ipynb file
 
 
-The code as been executed using the following command:
+The code has been executed using the following command:
 
 python code/augment.py --input=data/output_cleaned_train_subtask2.txt --output=data/eda_2_output_cleaned_train_subtask2.txt --num_aug=5 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.1 --alpha_rs=0.0
+
+text_clean: 
+This function of the EDA is modified to include digits and special characters.
