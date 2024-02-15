@@ -3,3 +3,5 @@
 - Given our time and resource limitations, our model underwent training for only 10 epochs, in contrast to the original BoschAI model, which typically undergoes training for 30 epochs.
 
 - Throughout the training process, F1 scores were not recorded for every epoch.
+
+- The CSV file CNC_eda+orig_output (original and the augmented EDA) is used for model training.
