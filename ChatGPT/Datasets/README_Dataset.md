@@ -16,3 +16,6 @@ CNC_chatgpt+orig_output_no_space6.csv: This is the ChatGPT generated dataset ent
 
 
 CNC_chatgpt+orig_output_no_sig65.csv: This is the ChatGPT generated dataset entries that do not have the signal tags. It is incorporated in EDA+CNC_chatgpt+orig2.csv. This dataset also has the original training dataset in the beginning.
+
+
+eda_2_output_transformed_train_subtask2.csv: This is the EDA augmented dataset that was later processed using the Process_EDA.ipynb into CNC_eda_o+orig_output55.csv which was used to get results. 
