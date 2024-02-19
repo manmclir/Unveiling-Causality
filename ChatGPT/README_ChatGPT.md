@@ -11,3 +11,9 @@ This notebook contains the functions that were used to prompt ChatGPT and genera
 
 Process_ChatGPT.ipynb:
 This notebook processes the raw ChatGPT generated dataset into datasets that can be used by the BoschAI model to train. 
+
+filter_dataframe_l: This takes in a df and a word list and removes every entry that does not have a word in the word list in the text column.
+
+process_text: This function confirms that there are no words outside of the bounds of the bracket wrapping and it capitalizes all of the tags.
+
+remove_wrapping: This function removes the bracket wrapping that usually surrounds the causal_w_text column
