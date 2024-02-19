@@ -1,0 +1,1099 @@
+Text
+The company accused <ARG1>the employee of stealing confidential information</ARG1> due to <SIG0>evidence found on their work computer</SIG0> <ARG0>during a routine audit</ARG0>.
+"""<ARG1>The students organized a protest</ARG1> because <ARG0>they were unhappy with the new tuition fees</ARG0>."""
+'<ARG1>The students are excited</ARG1> <SIG0>because</SIG0> <ARG0>they won the science fair and received recognition for their hard work</ARG0>.'
+'<ARG0>Poor air quality</ARG0> <SIG0>can <ARG1>cause respiratory issues and worsen existing conditions</SIG0>.'
+"Since the news about the company's financial downfall spread, <ARG0>many employees</ARG0> <SIG0>have started to look for new job opportunities</SIG0> <ARG1>to secure their future.</ARG1>"
+"On the morning of September 10th, 2015 at 3:49 AM in Kochi, it was discovered that due to heavy traffic on the highway, <ARG0>a transport truck was delayed in delivering its cargo to the destination</ARG0>. As a result, <ARG1>the delivery was not made on time and the customer had to wait longer than expected</ARG1> <SIG0>causing frustration and inconvenience</SIG0>."
+"'The heavy rain caused flooding in the city, <SIG0>leading to the closure of several roads and the evacuation of residents</SIG0>.'"
+'She failed to water the plants <ARG0>for several weeks</ARG0> and <SIG0>as a result</SIG0> <ARG1>they withered and died</ARG1>.'
+'<ARG0>Due to the heavy rain</ARG0> <SIG0>the match was postponed</SIG0> <ARG1>to ensure the safety of the players</ARG1>.'
+'<ARG1>The car skidded off the road</ARG1> <SIG0>due to</SIG0> <ARG0>the icy conditions</ARG0>.'
+"'<ARG0><SIG0>In order to</SIG0> improve her athletic performance</ARG0>, <ARG1>Sarah started training with a professional coach</ARG1>.'"
+"'The increase in tuition fees and lack of financial aid options <ARG1>resulted in students organizing a demonstration on campus</ARG1> , <ARG0>demanding affordable education and more scholarships</ARG0>.'"
+<SIG0>Heavy rainfall</SIG0> <ARG1>causes severe flooding</ARG1> <ARG0>in the city</ARG0>
+"""<ARG1>The heavy rain caused widespread flooding in the city</ARG1> <ARG0><SIG0>resulting in numerous road closures and property damage</SIG0>.</ARG0>"""
+"'After receiving multiple complaints about the quality of their products, the company decided <ARG1>to conduct a thorough investigation</ARG1> <ARG0><SIG0>in order to</SIG0> identify any potential issues and improve customer satisfaction</ARG0>.'"
+"""We are implementing new safety measures to ensure the well-being of our employees,"" the CEO stated, emphasizing that <ARG0><SIG0>these measures are essential</SIG0></ARG0> <ARG1>to create a secure working environment</ARG1>."
+<ARG1>The company's CEO resigned unexpectedly</ARG1> <ARG0><SIG0>raising concerns among investors</SIG0></ARG0>.'
+'<ARG1>The car swerved off the road</ARG1> <SIG0>due to</SIG0> <ARG0>the driver losing control of the steering wheel</ARG0>.'
+'<ARG1>The protest escalated</ARG1> <SIG0>due to</SIG0> <ARG0>the government's new policies</ARG0>.'
+"'<ARG1>After completing her medical degree, </ARG1> <SIG0>Dr. Smith </SIG0><ARG0>opened her own practice</ARG0>.'"
+"'When the weather turned bad, <ARG1>flights were cancelled</ARG1> <SIG0>leading to</SIG0> <ARG0>frustrated passengers waiting at the airport</ARG0>.'"
+"'<ARG0>She missed her flight due to traffic congestion</ARG0> , <SIG0>therefore</SIG0> <ARG1>she had to reschedule her meeting</ARG1> , delaying the project further.'"
+'<ARG1>The company has announced a price increase</ARG1> <SIG0>due to</SIG0> <ARG0>rising production costs</ARG0> .'
+'The lack of rainfall has resulted in <ARG1>crops withering and dying</ARG1> <ARG0><SIG0>due to the extreme drought</SIG0>.
+"During a heated argument last night, <ARG0>John slammed the door in anger</ARG0> <SIG0>causing</SIG0> <ARG1>his neighbors to call the police</ARG1>."
+'<ARG0>The recent increase in car accidents</ARG0> <SIG0>has led to</SIG0> <ARG1>a rise in insurance premiums</ARG1>.'
+"While <ARG0>global warming continues to worsen</ARG0> , <SIG0>resulting in</SIG0> <ARG1>more frequent and intense natural disasters such as hurricanes and wildfires</ARG1> ."
+"Students protested against the new school policies <ARG0>because they believed the changes would negatively impact their education</ARG0>. <SIG0>As a result</SIG0>, the school administration decided to hold a meeting to address their concerns."
+"'12th December 2017 10:32 AM WASHINGTON : The United States government explained to China on Tuesday that it acknowledged <ARG1>the progress made by Beijing in reducing carbon emissions and promoting clean energy</ARG1> <ARG0><SIG0>in order to combat climate change</SIG0>, but more efforts were required to achieve the goals set under the Paris Agreement.'"
+'<ARG1>The heavy rainfall caused flooding</ARG1> <SIG0>in</SIG0> <ARG0>the low-lying areas</ARG0> .'
+'<ARG1>Due to heavy rain and flooding</ARG1> <SIG0>many streets in the city were impassable</SIG0> .'
+"'<ARG1>Due to heavy rainfall and flooding, the school was forced to cancel classes for the day</ARG1> because <ARG0>the classrooms were deemed unsafe for students</ARG0>.'"
+"""<ARG1>Increased carbon emissions from human activities are contributing to global warming</ARG1> <ARG0><SIG0>resulting</SIG0> in rising sea levels and extreme weather events</ARG0>."""
+'Upon hearing about the incident from their neighbours <ARG0>a group of concerned citizens</ARG0> organized a protest to demand justice <ARG1>outside the local government office</ARG1> <SIG0>in order to raise awareness about the issue and urge authorities to take action</SIG0>.'
+"""The teacher failed the student's test <ARG1>because</ARG1> <SIG0>the student did not study for it</SIG0>."""
+'Students protest <SIG0>against the increase in tuition fees</SIG0> <ARG0>leading to</ARG0> a campus-wide demonstration <ARG1>demanding affordable education</ARG1>.'
+"'2 Cars collide at intersection due to driver's failure to yield - Local News Seattle , Tue Mar 10 2020 , 08:12 hrs <ARG0>A driver's failure to yield at an intersection</ARG0> <SIG0>resulted in</SIG0> <ARG1>a collision between two cars</ARG1>.'"
+"'According to eyewitnesses, <ARG1>a car crashed into a tree</ARG1> because <ARG0>the driver fell asleep at the wheel</ARG0> <SIG0>resulting in a severe accident</SIG0>.'"
+'<ARG0>High levels of pollution</ARG0> can lead to <ARG1>respiratory problems and other health issues</ARG1> <SIG0>such as asthma and lung cancer</SIG0>.'
+'<ARG1>The heavy rainfall caused severe flooding in the city</ARG1> <SIG0>leading to</SIG0> <ARG0>massive damage to homes and infrastructure</ARG0>.'
+"""<ARG0>The heavy rain caused the flooding in the area</ARG0> , <ARG1>Houses were submerged in water</ARG1> , <SIG0>as a result</SIG0> of the torrential downpour."""
+"'<ARG0>The heavy rainstorm</ARG0> <ARG1><SIG0>caused</SIG0> widespread flooding in the city and <SIG1>led to</SIG1> road closures and power outages</ARG1>, according to local authorities.'"
+"'After heavy rain, <ARG0>the ground became saturated</ARG0> <SIG0>causing <ARG1>flooding</SIG0> in several neighborhoods</ARG1>.'"
+"""We failed to provide proper training, <SIG0>thus</SIG0> <ARG0>the employees made costly mistakes</ARG0> <ARG1>resulting in financial losses for the company</ARG1>,"" explained the manager."
+"<ARG1>The students protested outside the university building</ARG1> , <ARG0><SIG0>demanding</SIG0> that tuition fees be reduced to make education more affordable</ARG0> ."
+"Last week, <ARG1>severe weather conditions caused widespread power outages</ARG1> <SIG0>resulting in</SIG0> <ARG0>thousands of homes and businesses losing electricity</ARG0>."
+"'\ufeffDue to the rapidly increasing pollution levels in the city, <ARG1>the number of respiratory diseases has significantly risen</ARG1>, <SIG0>resulting in</SIG0> <ARG0>a growing concern among the public about their health</ARG0>.'"
+"'If the government implements stricter regulations on pollution, <ARG1>environmental sustainability will improve</ARG1> <SIG0>as a result</SIG0> <ARG0>of their actions</ARG0>.'"
+There were rumors that <ARG1>a new study has shown significant health benefits of daily exercise</ARG1> <SIG0>due to <ARG0>the reduction in risk of heart disease and obesity</SIG0>.
+"'<ARG1>Increased levels of pollution , deforestation and climate change must be addressed</ARG1> <SIG0>to</SIG0> <ARG0>prevent further environmental degradation</ARG0> and protect future generations , environmental activists argued during a recent conference.'"
+CMP LONDON : <ARG0>The heavy rainfall in the city</ARG0> <ARG1><SIG0>led to</SIG0> widespread flooding and traffic chaos.</ARG1>
+"'The poll results show that <ARG0><SIG0>support for the incumbent mayor plummeted</SIG0>, resulting in widespread dissatisfaction among the voters</ARG0>.'"
+'Heavy rainfall : <ARG1>Several roads experienced flooding</ARG1> <SIG0>due to</SIG0> <ARG0>the torrential downpour</ARG0>.'
+A marathon runner collapsed due to dehydration during the race <ARG1> The runner <SIG0>was rushed to the hospital </ARG1></SIG0> <ARG0> because he didn't drink enough water before the race.</ARG0>
+"'<ARG0>Due to the heavy rainfall</ARG0>, <SIG0>the river flooded</SIG0>, <ARG1>resulting in widespread damage to homes and infrastructure.</ARG1>'"
+"'<ARG1>Protests erupted in the city </ARG1> <ARG0><SIG0>after the government announced</SIG0> a sharp increase in fuel prices</ARG0> , leading to widespread unrest among the population.'"
+"'In order <SIG0>to improve road safety</SIG0>, the government has implemented stricter traffic regulations <ARG0><SIG0>to reduce the number of accidents</SIG0>.'"
+"'<ARG1>The team won</ARG1> <ARG0><SIG0>because they practiced hard</SIG0></ARG0>, ""said the coach."""
+'The students boycotted the exams <ARG0>because the government increased the fees without any prior notice</ARG0> <SIG0>causing widespread protests across the country</SIG0>.'
+'MUMBAI : <ARG0>High pollution levels</ARG0> : <ARG1>residents demand stricter regulations</ARG1>'
+"""Due to the heavy rainfall in the area <ARG0>multiple roads were flooded</ARG0>, <ARG1>resulting in significant traffic congestion</ARG1> <SIG0>throughout the city</SIG0>."""
+"'Amidst rising unemployment rates, <ARG1>many individuals are choosing to start their own businesses</ARG1> <ARG0><SIG0>as a means of creating job opportunities</SIG0>.</ARG0>'"
+"'<SIG0>Although</SIG0> <ARG0>the company followed all safety protocols</ARG0>, <ARG1>there was a major accident at the factory</ARG1>'"
+"'Heavy rain caused flooding in the city, disrupting traffic and causing transportation delays <SIG0> during rush hour </SIG0>.'"
+"'<SIG0>As a result of</SIG0> <ARG0>the heavy rain</ARG0> , <ARG1>the streets were flooded.</ARG1>'"
+'<ARG0>The lack of rain</ARG0> <SIG0>has led to</SIG0> <ARG1>drought conditions in the region</ARG1>.'
+'( Click here for more information ) <ARG1>The car crashed into a tree</ARG1> <SIG0>because</SIG0> <ARG0>the driver was texting on their phone</ARG0> .'
+"'December 08 , 2017 00:00 IST Protesters demand stricter laws on gun control A recent mass shooting at a local school <ARG1>has prompted citizens to take to the streets and advocate for stricter gun control measures</ARG1> <ARG0><SIG0>in order to</SIG0> prevent further incidents of gun violence</ARG0> .'"
+"'MUMBAI <ARG1>Water shortage worsens</ARG1> , <ARG0>residents protest against BMC</ARG0>'"
+"'The students also threatened to boycott all classes if <SIG0>unless</SIG0> <ARG0>the university increased funding for research</ARG0>, <ARG1>they would petition for better resources and organize protests</ARG1>.'"
+<ARG0>The increase in pollution levels</ARG0> <SIG0>has led to</SIG0> <ARG1>a rise in respiratory diseases among the population.
+<ARG0>Heavy rainfall and strong winds</ARG0> <SIG0>caused extensive damage</SIG0> <ARG1>to the coastal regions</ARG1>.
+"""According to the latest reports, <ARG0>due to heavy rainfall, several houses were flooded</ARG0> and <ARG1>many residents had to evacuate their homes</ARG1>."""
+'<ARG0>The increase in air pollution</ARG0> <SIG0>has led to an increase in respiratory illnesses</SIG0> <ARG1>among the local population</ARG1>.'
+'UNEMPLOYMENT Rising protests by jobless youth: <ARG1>Demonstrations and protests organized by unemployed young individuals have been increasing rapidly in recent months</ARG1> <ARG0><SIG0>due to the lack of job opportunities and government support</SIG0></ARG0>.'
+"""Students Skip Classes <SIG0>to</SIG0> protest the new dress code policy </ARG0> and <ARG1>demand a revision</ARG1>."""
+'<ARG1>The price of oil has increased</ARG1> <SIG0>due to the political unrest in the Middle East</SIG0>.'
+'<ARG1>The students boycotted classes in protest of the new school policies</ARG1> <ARG0><SIG0>demanding</SIG0> a revision of the rules and <SIG1>calling for</SIG1> greater student input in decision-making</ARG0>.'
+<ARG1>The price of oil soared on Monday</ARG1> when <ARG0>a major oil-producing country experienced a supply disruption</ARG0> .'
+"""`` <ARG1>The new policies have been implemented</ARG1> <ARG0><SIG1>in order</SIG1> to improve employee satisfaction and <SIG0>to enhance productivity</ARG0> , '' the manager explained ."""
+'<ARG1>The students were organizing a strike</ARG1> <SIG0>because of</SIG0> <ARG0>the increase in tuition fees</ARG0>.'
+'Sara argued <ARG1>their team lost the game</ARG1> <SIG0>because</SIG0> <ARG0>they lacked proper coordination and strategy</ARG0>.'
+'<ARG0>The heavy rain</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding</ARG1> in the city.'
+'Increase in greenhouse gas emissions <ARG0>has led to a rise in global temperatures and climate change </ARG0> <ARG1>which has caused extreme weather events and sea level rise</ARG1> <SIG0>leading to devastating impacts on ecosystems and human communities</SIG0>.'
+'Protestors gathered outside the government building <ARG1>as they demanded changes to the current policy</ARG1> <SIG0>because</SIG0> <ARG0>the lack of action had sparked outrage among the citizens</ARG0>.'
+"'<ARG1>She ate a peanut butter sandwich</ARG1> , <ARG0><SIG0>resulting in</SIG0> a severe allergic reaction</ARG0>.'"
+"""Protests erupt outside parliament <ARG1>as lawmakers voted in favor of a controversial new law <SIG0>triggering public anger and frustration <ARG0>over government actions</SIG0>."""
+"'The heavy rainfall caused <ARG0>widespread flooding in the city</ARG0> , <ARG1><SIG0>resulting in the closure of several roads</SIG0></ARG1>.'"
+'<ARG1>The team lost the game</ARG1> <SIG0>because</SIG0> <ARG0>they didn't practice enough</ARG0>.'
+"'Students rally for better education facilities 17th June 2019 10:32 AM NEW YORK: Monday would witness a massive protest by <ARG1>students, demanding better education facilities</ARG1> <ARG0>due to the lack of funding in public schools</ARG0>."
+'<ARG0>The heavy rain and flooding</ARG0> <SIG0>resulted in</SIG0> <ARG1>the cancellation of the outdoor concert.</ARG1>.'
+"'March 5th, 2022 10:30 AM: <ARG0>Protesters took to the streets</ARG0> <ARG1>demanding action against deforestation </ARG1><SIG0>in response to the government's lack of environmental policies</SIG0>.'"
+'<ARG1>The heavy rainfall caused severe flooding in the city</ARG1> <ARG0><SIG0>resulting in</SIG0> significant damage to homes and infrastructure</ARG0>.'
+"'On a rainy day, <ARG0>his forgotten umbrella</ARG0> <SIG0>led to</SIG0> <ARG1>him getting soaked to the bone</ARG1> with no protection from the downpour.'"
+"'<ARG1>Blaming the lack of funding for research and development</ARG1> , <ARG0>she <SIG0>argued</SIG0> that it has hindered innovation and scientific progress in the country.</ARG0>"
+<ARG1>Many people experienced health issues</ARG1> after <ARG0>they consumed contaminated food</ARG0> during the picnic.'
+"'When <ARG0>students study diligently and complete their assignments on time</ARG0>, <SIG0>they are more likely to achieve higher grades</SIG0>.'"
+'<ARG1>The company's profits increased</ARG1> after <ARG0>they implemented a new marketing strategy</ARG0>.'
+"'<ARG1>The tree fell down during the storm</ARG1> , <ARG0>due to strong winds <SIG0>blowing</SIG0> outside</ARG0> .'"
+"<SIG0>Because of the heavy rainfall last night</SIG0>, <ARG0>the park was flooded this morning</ARG0> and <ARG1>all the scheduled activities had to be canceled</ARG1>."
+'<ARG1>Several parents organized a protest </ARG1> <ARG0><SIG0>to</SIG0> demand safer playground equipment </ARG0>.'
+"'NEW YORK: Stock market plunges, investors panic, global economy in jeopardy <SIG0>After</SIG0> <ARG0>a major recession hit the housing market</ARG0>, <ARG1>financial instability spread like wildfire, causing the stock market to plunge and investors to panic, ultimately putting the global economy in jeopardy</ARG1>.'"
+'<ARG0>The new law</ARG0> <SIG0>led to</SIG0> <ARG1>a decrease in crime rates in the city</ARG1>.'
+"""A recent outbreak of protests in the city has led to clashes between the police and demonstrators, resulting in several injuries and property damage."""
+"""The President announced <ARG1>a new economic policy</ARG1> <SIG0>after</SIG0> <ARG0>he received feedback from his advisors</ARG0>."""
+'<ARG0>A heavy rainstorm</ARG0> <SIG0>caused flooding in the city</SIG0> <ARG1>resulting in widespread damage to homes and infrastructure</ARG1>.'
+'<ARG0>After studying all night</ARG0> <SIG0>because of the upcoming exam</SIG0> <ARG1>I felt exhausted in the morning.</ARG1>'
+"'Terrorists attack bus in Mumbai 13th July 2021 09:45 AM <ARG0>Carrying out a suicide mission</ARG0> , <ARG1>Terrorists have bombed a bus</ARG1> in crowded area.'"
+"'The severe weather conditions, <SIG0>such as heavy rain and strong winds</SIG0>, resulted in a major power outage <ARG1>causing widespread blackouts and disrupting essential services</ARG1> <ARG0>leading to chaos and inconvenience for the residents</ARG0>.'"
+"""<ARG0>The heavy rain</ARG0> <SIG0>caused</SIG0> <ARG1>severe flooding in the city</ARG1>, leading to extensive property damage."""
+'<ARG1>The students skipped class</ARG1> <ARG0><SIG0>in order</SIG0> to attend the concert of their favorite band</ARG0>.'
+"'<ARG0>Last night , the thunderstorm , accompanied by heavy rain and strong winds, ripped through the city</ARG0> and <ARG1><SIG0>caused widespread power outages</SIG0> throughout the area</ARG1> .'"
+'<ARG1>Heavy rain</ARG1> caused <ARG0>widespread flooding</ARG0> in the city.'
+'<ARG0>A heavy rainstorm flooded the streets</ARG0> <ARG1><SIG0>damaging</SIG0> several cars</ARG1>.'
+"'Despite the rain, <ARG0>a group of volunteers gathered in the park</ARG0> <ARG1><SIG0>organizing</SIG0> a clean-up event</ARG1>.'"
+'<ARG0>The heavy rains caused flooding in the city</ARG0> and <SIG0>led to</SIG0> <ARG1>the evacuation of residents and damage to infrastructure</ARG1>.'
+"'INDIA Rising pollution levels <SIG0>have led to an increase in respiratory diseases among the population of Delhi</SIG0>. <ARG0>Authorities have implemented strict measures to curb air pollution, including the implementation of odd-even vehicle rationing system</ARG0>.'"
+"'Organizing a surprise party for her best friend's birthday, <ARG1>she wanted to show her appreciation for their friendship</ARG1> <ARG0><SIG0>by throwing an unforgettable celebration</SIG0>.'"
+'<ARG0><SIG0>Environmental activists have been protesting</SIG0> the construction of a new oil pipeline</ARG0> <ARG1>due to the potential damage it could cause to natural habitats and water sources</ARG1>.'
+"'However, <ARG0>the lack of job opportunities</ARG0> has resulted in <ARG1>a high rate of unemployment among the youth </ARG1> and has caused economic instability in the region.'"
+"'After the heavy rain <ARG0>floods submerged the entire town</ARG0> , causing <SIG0>significant damage to homes and infrastructure</SIG0> , <ARG1>rescue teams were deployed and residents were evacuated to safety</ARG1>.'"
+'<ARG1>Heavy rain caused flooding in the area</ARG1> <ARG0><SIG0>leading to</SIG0> road closures and power outages.</ARG0>'
+'<ARG1>A car crashed into a tree</ARG1> because <ARG0>the driver was texting while driving</ARG0>.'
+'<ARG1>The car crashed into a tree</ARG1> because <ARG0>the driver was texting on their phone</ARG0>.
+'<ARG1>Due to the heavy rainfall</ARG1> <ARG0>many roads were flooded</ARG0> <SIG0>causing traffic jams throughout the city.</SIG0>'
+'<ARG1>The company experienced a decrease in sales</ARG1> <SIG0>due to the economic recession and lack of consumer confidence</SIG0> .'
+"'In response to the unrest, <SIG0>the university implemented stricter security measures</SIG0> and <ARG1>increased police presence on campus</ARG1> , <ARG0>resulting in a decrease in violent incidents</ARG0>.'"
+<ARG1>He missed the bus</ARG1> because <ARG0>he overslept</ARG0> .
+"<I am sorry, but as a language model AI developed by OpenAI, I do not have access to internet or the ability to generate new examples.>"
+'<ARG1>Local residents evacuate their homes</ARG1> <SIG0>due to</SIG0> <ARG0>approaching hurricane</ARG0> as advised by local authorities.'
+10 May 2018 <ARG1>The company saw a significant increase in sales last quarter</ARG1> <ARG0><SIG0>due to their new advertising campaign targeted towards younger demographics</SIG0></ARG0>.
+'The heavy rain and thunderstorm caused severe flooding in the city' <ARG0>Resulting in massive damage to properties and infrastructure</ARG0>
+"'<ARG1>The car crashed into a tree</ARG1> because <ARG0>the driver was texting</ARG0> , according to eyewitnesses.'"
+<ARG0>She forgot to set her alarm clock</ARG0> <SIG0>therefore</SIG0> <ARG1>she overslept and missed her morning meeting</ARG1>.
+'“ <ARG0>After the argument escalated</ARG0> and <ARG1>the friendship was irreparably damaged</ARG1> .'
+"'When <ARG0>the car ran out of gas</ARG0>, <ARG1>we had to walk home</ARG1>, <SIG0>since there was no nearby gas station</SIG0>.'"
+'<ARG1>The students boycotted the class</ARG1> because <ARG0>the professor assigned too much homework</ARG0>.'
+"'<ARG1>As the rain poured down</ARG1> , <SIG0>the streets became flooded</SIG0> , causing <ARG0>cars to get stuck in the water</ARG0>.'"
+Increased pollution levels have led to a rise in respiratory diseases <SIG0>such as</SIG0> <ARG1>asthma and bronchitis</ARG1> <ARG0>among the population living near industrial areas</ARG0>.'
+"'After <SIG0>the heavy rainstorm last night</SIG0>, <ARG0>the river flooded its banks</ARG0>, <ARG1>causing widespread damage to nearby homes and infrastructure</ARG1>.'"
+"'NEW YORK : Stock prices plummeted on Wall Street August 15, 2019 08:00 EST <ARG1>Investors panicked and sold their shares, leading to a major market crash</ARG1>, <ARG0>after news broke out about an impending global recession and trade wars between major nations</ARG0>.'"
+"'<ARG1>Heavy rains caused the river to flood</ARG1> , <ARG0>resulting in the displacement of thousands of people</ARG0>.'"
+"<ARG0>Due to the heavy rainstorm</ARG0> , <ARG1>the roof started leaking</ARG1> .'"
+"<ARG0>In response to growing public concern about climate change</ARG0>, <SIG0>many countries are implementing stricter environmental regulations and targets</SIG0> <ARG1>to reduce greenhouse gas emissions</ARG1>."
+<ARG0>The heavy rain and strong winds</ARG0> <SIG0>caused</SIG0> <ARG1>severe flooding in the city</ARG1>.
+"""Implement stricter gun control laws to reduce the number of mass shootings: Recent incidents have shown the urgent need for <SIG0>strengthening regulations surrounding firearm access and ownership</SIG0>. <ARG0>These incidents have resulted in countless innocent lives being lost</ARG0>, making it imperative for governments to take immediate action and <ARG1>implement stricter gun control laws</ARG1>."""
+"""<ARG0><SIG0>Blaming</SIG0> the poor road conditions in the city, several drivers</ARG0> <ARG1>had their cars damaged due to multiple potholes and bumps on the road.</ARG1>"""
+"'Despite the heavy rainfall, the government has <SIG0>vowed to continue the construction work</SIG0> <ARG0>for the infrastructure development</ARG0> <ARG1>to ensure the progress of the city.</ARG1>'"
+'<ARG1>The students organized a protest <SIG0>demanding that</SIG0> the school lower tuition fees</ARG1> <ARG0>as they believed it was too expensive</ARG0>.'
+'<ARG1> The car skidded off the road </ARG1> due to <ARG0> the icy conditions </ARG0> .'
+"'TOKYO : Heavy rainfall leads to extensive flooding in the city June 23, 2021 09:00 JST <ARG0>Continuous downpour and overflowing rivers</ARG0> <ARG1>The city is experiencing extensive flooding as a result of the heavy rainfall</ARG1>.'"
+'<ARG0>A heavy rainfall flooded the streets</ARG0> <ARG1><SIG0>causing</SIG0> traffic congestion in the city</ARG1>.'
+'<ARG1>The company decided to cut costs and reduce its workforce</ARG1> <ARG0>due to the economic downturn caused by the pandemic</ARG0>.'
+'<ARG0>The heavy rain caused</ARG0> the streets to flood <SIG0>which resulted in </SIG0><ARG1>traffic congestion</ARG1>.'
+"'As the temperature dropped below freezing, <ARG0>the pipes in the house froze</ARG0> <SIG0>resulting in no running water</SIG0>.'"
+'<ARG0>Heavy rain </ARG0> <ARG1><SIG0>caused</SIG0> the river to flood</ARG1>.'
+"<SIG0>The heavy rain</SIG0> caused <ARG0>the trees</ARG0> to fall down, <ARG1>blocking the road</ARG1>."
+"'RIOTS: City under lockdown due to violent protests July 15, 2022 10:30 AM <ARG1>The entire city has been put on lockdown</ARG1> <SIG0>due to</SIG0> <ARG0>widespread violent protests erupting across various neighborhoods</ARG0>.'"
+"'SAN FRANCISCO: Protesters took to the streets on November 20, 2022, <ARG1>blocking traffic and causing disruptions</ARG1> <ARG0><SIG0>to demand action on climate change</SIG0></ARG0>.'"
+'John decided <ARG0><SIG0>to study for the exam</SIG0></ARG0> and as a result <ARG1>he got an A+</ARG1>.'
+'<ARG1>Accidents happen</ARG1> <SIG0>when</SIG0> <ARG0>drivers are distracted</ARG0>'
+"'With the increasing cost of living, <ARG1>many families are struggling to make ends meet</ARG1> <ARG0><SIG0>due to</SIG0> the stagnant wages</ARG0>.'"
+"'<SIG0>Due to the heavy rainstorms</SIG0> , <ARG0>the outdoor concert was cancelled</ARG0> and <ARG1>the musicians had to perform indoors instead</ARG1> .'"
+"Meanwhile, <ARG1>a man got fired from his job</ARG1> <ARG0><SIG0>after repeatedly coming late to work</SIG0>.</ARG0>"
+'<ARG1>Heavy rainfall in the city</ARG1> <SIG0>resulted in</SIG0> <ARG0>floods</ARG0>'
+'The lack of adequate medical supplies <ARG0>resulted in a rise in preventable deaths</ARG0> <SIG0>amongst the population</SIG0>.'
+'<ARG1>The cat knocked over the vase</ARG1> <SIG0>when</SIG0> <ARG0>it jumped off the table</ARG0> .'
+"'29th November 2018 11:45 AM NEW YORK : Since <ARG0>the implementation of stricter gun control laws</ARG0>, <ARG1>the crime rate in the city has significantly decreased</ARG1> and residents feel safer walking the streets at night."
+'<ARG0>Heavy rainfall</ARG0> <ARG1><SIG0>led</SIG0> to flooding in several areas</ARG1> .'
+'<ARG0>Heavy rainfall</ARG0> caused <SIG0>the river to overflow</SIG0> and <ARG1>flooded the nearby town.</ARG1>'
+'<ARG0>The heavy rainfall</ARG0> <ARG1><SIG0>caused</SIG0> the river to overflow its banks</ARG1>.'
+'<ARG1>The heavy rain caused the streets to flood</ARG1> <SIG0>leading to</SIG0> <ARG0>several cars getting stuck in the water</ARG0>.'
+"'Because <ARG0>the driver was distracted</ARG0> , <ARG1>the car swerved off the road</ARG1> <SIG0>causing a major accident</SIG0> .'"
+'PROTESTORS <ARG0>Expressing their anger over the proposed tax increase</ARG0> <SIG0>marched towards the town hall</SIG0> <ARG1>to demand a repeal of the new policy.</ARG1>'
+"""<ARG1>A car crashed into a tree</ARG1> <SIG0>because</SIG0> <ARG0>the driver was texting on their phone.</ARG0>"""
+'This car broke down <ARG1>due to a faulty engine</ARG1> <SIG0>resulting in</SIG0> <ARG0>the driver being late for work</ARG0>.'
+"""<ARG1>The car crashed</ARG1> due to <ARG0>the driver falling asleep at the wheel</ARG0> <SIG0>after driving for 12 hours straight</SIG0>."""
+"'Holding a loaded gun in his hand, <ARG1>the criminal threatened the store clerk</ARG1>, causing <SIG0>fear to engulf the entire store</SIG0>.</ARG0>'"
+"Biker collides with car, sustains serious injuries 22nd September 2021 3:45 PM LOS ANGELES: <ARG1>A biker sustained serious injuries</ARG1> after <ARG0>colliding with a car on the intersection this afternoon</ARG0>, causing a traffic jam in the area."
+"'<ARG0>A heavy rainstorm hit the city last night</ARG0> , <ARG1><SIG0>causing</SIG0> widespread flooding in the streets</ARG1> , according to local news reports.'"
+"'<ARG1>Due to heavy rain</ARG1>, <SIG0>the streets became flooded</SIG0> .'"
+"During rush hour, <ARG0>a car crashed into another vehicle</ARG0> , <ARG1><SIG0>causing</SIG0> a major traffic jam</ARG1> ."
+"'<ARG1>Due to heavy rain and strong winds</ARG1> <SIG0>several trees fell</SIG0> <ARG0,resulting in power outages in the area</ARG0>.'"
+'<ARG0>A heavy rainstorm hit the city</ARG0> causing widespread flooding and <SIG0>resulting in</SIG0> significant property damage.</ARG1>.'
+'<ARG0>The heavy rains caused severe flooding in the city overnight</ARG0> leading to <ARG1>widespread damage to homes and infrastructure</ARG1>.'
+One of the employees decided <ARG1>to take a long lunch break</ARG1> <ARG0><SIG0>in order to avoid doing additional work</SIG0></ARG0>.
+"""Due to the increase in pollution levels, <SIG0>many people are developing respiratory problems</SIG0> <ARG1>and hospitals are reporting a rise in the number of patients seeking treatment for breathing issues</ARG1> <ARG0>in major cities.</ARG0>"""
+"""<ARG1>The new advertising campaign</ARG1> has <ARG0><SIG0>a potential to</SIG0> boost sales</ARG0> ."""
+"""Farmers demand government intervention, as crop failures devastate rural communities - Local News Channel, Local News Channel: Springfield, Mon June 15, 2020, 14:30 hrs <SIG0>In response to severe drought and pest infestations</SIG0> <ARG1, the farming community rallies> <ARG0>to seek assistance</ARG0> in recovering from significant losses."""
+"'<ARG0><SIG0>Due to heavy rain</SIG0> , <ARG1>the streets flooded and caused traffic jams throughout the city.</ARG1>'"
+"'<ARG1>The company implemented a new marketing strategy</ARG1> <ARG0><SIG0>in order to</SIG0> boost sales and <SIG1>increase</SIG1> brand awareness</ARG0> , according to the CEO.'"
+"'<ARG1>The company decided to raise prices</ARG1> , <ARG0><SIG0>due to increasing production costs and high demand for the product</SIG0>.</ARG0>.'"
+'<ARG1>The increase in tuition fees caused many students to protest on campus</ARG1> <SIG0>against</SIG0> <ARG0>the university's decision</ARG0>.'
+'<ARG1>The increase in pollution levels in the city caused <SIG0>a rise in respiratory illnesses</SIG0></ARG1> <ARG0>leading to</ARG0> an increase in hospital admissions.
+"'<ARG1>Due to heavy rain, the streets were flooded</ARG1> <ARG0><SIG0>resulting in</SIG0> traffic congestion.</ARG0>'"
+"""Students protest against fee hike - The New York Times: New York, September 10, 2021, Thurs Sep 11 2021, 09:23 hrs <ARG1>University authorities, in response to the student protest, decided to reconsider the recent fee hike</ARG1> <ARG0><SIG0>in order</SIG0> to address the concerns raised by the students</ARG0>."""
+'<ARG0>The lack of affordable housing in the city</ARG0><SIG0> has caused</SIG0><ARG1>a significant increase in homelessness.</ARG1>'
+'<ARG1>Rise in Air Pollution</ARG1> <SIG0>due to</SIG0> <ARG0>Increased Industrial Activity</ARG0>'
+'<ARG1>The company lost a major client and had to lay off several employees</ARG1> <SIG0>due to</SIG0> <ARG0)the economic recession.</ARG0>.'
+"'<ARG1>The heavy rainfall </ARG1> <SIG0>caused</SIG0> <ARG0>the river to overflow </ARG0>, resulting in severe flooding in the area.'"
+"""<ARG1>Heavy rainfall caused severe flooding in the city</ARG1> , <ARG0><SIG0>leading to</SIG0> widespread power outages and property damage</ARG0> ."""
+"'After experiencing multiple failures, <ARG1>the company decided <SIG0>to implement new strategies</SIG0></ARG1> <ARG0>in order to improve its performance</ARG0>.'"
+"<ARG1>In order to improve customer satisfaction , the company implemented a new feedback system</ARG1> <ARG0><SIG0>to gather valuable insights</SIG0> .'"
+"'Following a wave of protests by the public, the government <SIG0>has decided to initiate a comprehensive investigation into the alleged corruption</SIG0> and <ARG0>appoint a special counsel</ARG0> to handle the case <ARG1>in order to restore public trust in the administration.</ARG1>'"
+'<ARG0>The student received a scholarship</ARG0> <SIG0>because</SIG0> <ARG1>of her outstanding academic achievements</ARG1>'
+'12 Nov 2019 <ARG1>The stock market crashed</ARG1> as <ARG0>investors panicked over the trade war with China</ARG0> causing a major economic downturn.'
+"'<ARG1>The heavy rain caused flooding in the area</ARG1> , <ARG0><SIG0>resulting in</SIG0> several streets being closed</ARG0>.'"
+"The heavy rain <ARG1>flooded the streets and caused massive traffic jams</ARG1>, <ARG0><SIG0>resulting in</SIG0> many people being late for work</ARG0>."
+The closure of the factory resulted in the loss of jobs for all of its employees.
+"'<SIG0>As a result of heavy rainfall </SIG0>, <ARG0>the river flooded its banks</ARG0> , causing <ARG1>widespread destruction in the nearby town</ARG1>.'"
+"""” The company's decision to lay off employees <ARG1>was influenced by the declining profits</ARG1> <ARG0>“ <SIG1>owing to</SIG1> the lack of demand for their products and <SIG0>due to</SIG0> economic downturn</ARG0> ."""
+'<ARG1>A sudden downpour</ARG1> <SIG0>resulted in</SIG0> <ARG0>the cancellation of the outdoor concert</ARG0>.'
+'<ARG0>The heavy rain</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding</ARG1> in the city.'
+"'The heavy rain caused <ARG1>a massive flooding in the city</ARG1> , <ARG0><SIG0>leading to</SIG0> extensive property damage</ARG0> .'"
+"'Students protest against tuition fee hike in the capital city of San Francisco were met with police force, causing a significant outcry among the community.'"
+"""`` Neglecting climate change will <ARG1>result in catastrophic consequences</ARG1> <SIG0>if</SIG0> <ARG0>we fail to reduce carbon emissions immediately</ARG0> ... ''"""
+"A woman started screaming when she witnessed a car accident, and <SIG0>a crowd gathered at the scene</SIG0> after <ARG0>emergency services arrived on the scene</ARG0>."
+"'<ARG1>A company's stock price plummeted</ARG1> when <ARG0>news broke of a major product recall</ARG0> , causing panic among investors.'"
+'<ARG1>The student's grades improved</ARG1> <SIG0>after he started studying more and attending extra classes</SIG0>.'
+'<ARG1>The car crashed into a tree</ARG1> <SIG0>due to</SIG0> <ARG0>the driver's reckless driving</ARG0>.'
+'<ARG1>Many trees were uprooted during the storm</ARG1> <SIG0>due to</SIG0> <ARG0>strong winds and heavy rain that hit the area</ARG0>.'
+EFFICIENT IRRIGATION <ARG0>Technologies</ARG0> <ARG1>lead to increased crop yields</ARG1>'
+'<ARG1>The students <SIG0>protested</SIG0> the lack of funding for extracurricular activities.</ARG1> <ARG0>The school board decided to allocate more funds for these activities.</ARG0>'
+"<Turned down></Turned down> by various publishers, <Hadriana's Body: A Novel></Hadriana's Body: A Novel> gained popularity after receiving critical acclaim and winning numerous literary awards."
+'Scientists warn of increased hurricanes due to climate change <ARG1>as global temperatures continue to rise</ARG1> <SIG0>resulting in</SIG0> <ARG0>more frequent and severe tropical storms</ARG0>.'
+"'After experiencing delays in receiving their paychecks, the employees have decided <SIG0>to</SIG0> <ARG0>demand immediate action from the management</ARG0> and <ARG1>will go on strike next week</ARG1>.'"
+'<ARG1>The heavy rain flooded the streets</ARG1> <ARG0><SIG0>causing</SIG0> traffic jams all over the city</ARG0>.'
+"'<ARG1>The marathon runner crossed the finish line</ARG1> <SIG0>due to</SIG0> <ARG0>the months of rigorous training</ARG0> , ""said the coach at the press conference."""
+'<ARG1>Teachers went on strike at the local school</ARG1> <ARG0><SIG0>in order</SIG0> to demand higher wages</ARG0> .'
+"'Stating that <ARG1>the demand for higher wages by the workers</ARG1> <SIG0>led to</SIG0> <ARG0>a series of protests and strikes</ARG0>, the union leader mentioned that the management's refusal to negotiate had escalated the situation.'"
+'PROTESTORS <ARG1>gather in the streets</ARG1> <ARG0>to demand stronger gun control laws</ARG0>'
+"February 14, 2019 10:00 AM PST MAJOR ACCIDENT: <ARG1>A car crashed into a tree yesterday</ARG1> <SIG0>because</SIG0> <ARG0>the driver was texting while driving</ARG0>."
+"'<ARG1>The heavy rainfall and subsequent flooding caused significant damage to homes and infrastructure</ARG1> , <SIG0>leading to</SIG0> <ARG0>the evacuation of residents and the deployment of emergency services</ARG0>.'"
+"'<ARG1>\ufeffCrime rates rise</ARG1> <SIG0>due to</SIG0> <ARG0>ineffective policing strategies</ARG0> , Calls for police reform'"
+"'<ARG1>Due to heavy rain, the match was cancelled</ARG1> <SIG0>resulting in</SIG0> <ARG0>disappointed fans leaving the stadium</ARG0>.'"
+'<ARG1>She studied hard for the test</ARG1> <ARG0><SIG0>so</SIG0> she got an A</ARG0> .'
+'<ARG1>The heavy rainfall in the area </ARG1><SIG0>led to</SIG0> <ARG0>widespread flooding and property damage</ARG0>.'
+'<ARG1>The company saw an increase in sales</ARG1> <SIG0>due to their new marketing campaign</SIG0> <ARG0>which targeted a larger audience</ARG0>.'
+"'BANGALORE / MYSORE : <ARG0>Heavy rain occurs</ARG0> , <ARG1>traffic jams intensify</ARG1>'"
+"'<ARG0>Due to heavy rainfall</ARG0> <SIG0>in the past week</SIG0>, <ARG1>the river flooded and caused extensive damage to the surrounding towns</ARG1>.'"
+"Furthermore, <ARG1>the increase in pollution levels has led to a rise in respiratory diseases</ARG1> <ARG0><SIG0>prompting</SIG0> the implementation of stricter environmental regulations</ARG0> ."
+'- The employees <ARG0><SIG0>went on strike</SIG0> demanding higher wages and better working conditions</ARG0> <ARG1>resulting in the company's production being halted</ARG1>.'
+'<ARG1>Heavy rain causes flooding</ARG1> <SIG0>resulting in</SIG0> <ARG0>evacuation orders</ARG0>'
+"'<ARG1>Due to the heavy rain last night</ARG1> <ARG0><SIG0>several roads in the city were flooded</SIG0></ARG0> , causing traffic jams during rush hour.'"
+"'After receiving a promotion at work, <ARG1>John decided to celebrate with his friends</ARG1> <SIG0>since</SIG0> <ARG0>he had been working hard lately</ARG0>.'"
+"'<ARG1>Due to heavy rain, the road was flooded</ARG1> resulting in <ARG0>many cars getting stuck</ARG0>.'"
+"'<ARG1>The team's performance improved</ARG1> as <ARG0>they started implementing new strategies</ARG0> , the coach explained .'"
+"'The heavy rains <ARG0><SIG0>led to</SIG0> severe flooding and damage to homes</ARG0> in the coastal town of XYZ.' <ARG1>As a result of the heavy rains, many residents were stranded and had to be evacuated from their homes.</ARG1>"
+"'Following the argument, <ARG1>the neighbors called the police</ARG1>, <SIG0>resulting in</SIG0> <ARG0>the couple's arrest</ARG0>.'"
+'<ARG1>Increased pollution levels</ARG1> <ARG0><SIG0>resulted in</SIG0> stricter environmental regulations being implemented by the government</ARG0>.'
+'<ARG1>The company saw a significant increase in sales</ARG1> <SIG0>after launching a new marketing campaign</SIG0> <ARG0>targeting a younger demographic</ARG0>.'
+'<ARG1>Increased rainfall and saturation of the soil</ARG1> <SIG0>led to</SIG0> <ARG0>a rise in the river water levels</ARG0> resulting in widespread flooding in the area.'
+"ANDHRA PRADESH Farmers protest for better irrigation facilities July 10, 2021 08:00 IST Correspondent GUNTUR: <ARG1>Large groups of farmers gathered near the district office</ARG1> <ARG0><SIG0>calling for</SIG0> improved irrigation facilities</ARG0>.'"
+'<ARG1>The company's profits</ARG1> <SIG0>decreased</SIG0> <ARG0>due to a decrease in consumer spending during the pandemic</ARG0> .'
+'<ARG1>The company's profits increased</ARG1> <SIG0>due to</SIG0> <ARG0>a successful marketing campaign launched by the newly hired marketing team</ARG0>.'
+<ARG1>The company experienced a significant drop in profits</ARG1> due to <ARG0>a decline in sales</ARG0> .'
+'DELHI : <ARG1>Heavy traffic jams and delays</ARG1> were reported in <ARG0>the city due to a massive protest by farmers demanding better agricultural policies</ARG0> <SIG0>on Monday</SIG0>.'
+'<ARG0>The heavy rain</ARG0> caused <SIG0>the flooding of the streets</SIG0>.'
+'<ARG1>The company's profits soared</ARG1> <SIG0>after</SIG0> <ARG0>they implemented a new marketing strategy that targeted younger demographics and utilized social media influencers</ARG0>.
+'<ARG1>The accident was caused </ARG1><SIG0>by</SIG0><ARG0> the driver texting on his phone</ARG0>.'
+"'<ARG0><SIG0>Due to the heavy rain</SIG0></ARG0> , <ARG1>the streets were flooded and traffic came to a standstill</ARG1>.'"
+"'<ARG0><SIG0>Recognizing</SIG0> the importance of regular exercise and a healthy diet</ARG0>, <ARG1>a group of researchers conducted a study on the effects of physical activity on overall well-being.</ARG1>'"
+'<ARG0>The heavy rainfall</ARG0> <SIG0>resulted in</SIG0> <ARG1>widespread flooding in the city.</ARG1>
+"'<ARG1>The price of tomatoes skyrocketed</ARG1> , <ARG0><SIG0>due to a drought in the region</SIG0> .'"
+"""`` <ARG0>Excessive sugar consumption</ARG0> <SIG0>can result in</SIG0> <ARG1>the development of Type 2 diabetes</ARG1>, '' she warned during a health seminar in the city."""
+"'<ARG1>The students, led by the college union leader, organized a protest march</ARG1> <ARG0><SIG0>demanding</SIG0> a reduction in tuition fees</ARG0>.'"
+"'<ARG1>Due to heavy rain and strong winds, the outdoor event was canceled</ARG1> <SIG0>causing disappointment among the attendees</SIG0>.'"
+"'Bengaluru : <ARG1>Bus fare hike</ARG1> <SIG0>as</SIG0> <ARG0>fuel prices rise</ARG0> November 20, 2019 09:30 IST With the increase in fuel prices, the government announced a hike in bus fares, leading to widespread protests by commuters.'"
+'<ARG1>A company decided to implement new safety protocols</ARG1> <ARG0><SIG0>in response to a recent accident that occurred in the workplace</SIG0>.</ARG0>'
+“ <ARG1>She got promoted</ARG1> <ARG0><SIG0>because of</SIG0> her hard work and dedication</ARG0>. ”
+"'“The teacher gave a pop quiz,"" whispered the student, who was feeling nervous and said <ARG1>she started studying</ARG1> <SIG0>because</SIG0> <ARG0>she wanted to get a good grade</ARG0>.'"
+'<ARG0>The increase in air pollution levels</ARG0> <SIG0>has led to</SIG0> <ARG1>a rise in respiratory illnesses .</ARG1>'
+"'“ The heavy rain continued throughout the day. ” Unable to find shelter, <ARG1>many people got soaked to the bone and caught a cold</ARG1> <SIG0>since</SIG0> <ARG0>they forgot to bring an umbrella</ARG0>.'"
+"'<SIG0>Due to</SIG0> widespread protests and public pressure for change, <ARG0>the government quickly implemented new legislation</ARG0> <SIG0>to address the issue</SIG0>.'"
+'<ARG1>Heavy rain caused flooding in the city</ARG1> as <ARG0>the drainage system was blocked</ARG0>.'
+'<ARG1>The stock market crashed</ARG1> <SIG0>due to the economic recession</SIG0>.'
+"'<ARG0>The heavy rain caused the river to overflow</ARG0> , <SIG0>resulting in severe flooding</SIG0>.'"
+"'- The students protested outside the university <SIG0>demanding</SIG0> better campus facilities.</ARG0>, <ARG1>which led to the administration approving the construction of a new student center.</ARG1>'"
+<ARG1>Many students experienced academic difficulties</ARG1> <SIG0>due to</SIG0> <ARG0>the lack of access to reliable internet</ARG0>.'
+'<ARG1>The company implemented new safety protocols </ARG1><SIG0>due to</SIG0> <ARG0>the increase in workplace accidents </ARG0> in order to ensure the well-being of its employees.'
+'<ARG1>Due to the heavy rainfall in the area</ARG1> <ARG0><SIG0>the river flooded</SIG0>.</ARG0>'
+'The company decided to cut costs by outsourcing its customer service department <SIG0>resulting in a significant decrease in customer satisfaction</SIG0>.'
+'<ARG1>He got a promotion</ARG1> <SIG0>because</SIG0> <ARG0>he worked hard and exceeded all expectations</ARG0>.'
+'Heavy rainfall caused severe flooding in the city last night <SIG0>resulting in</SIG0> <ARG1>widespread damage to properties and infrastructure</ARG1> <ARG0>forcing many residents to evacuate their homes</ARG0>.'
+"'FOREST FIRES: Government imposes stricter regulations on burning practices April 26, 2021 12:00 PM In response to the increasing number of forest fires, the government <ARG1>implemented stricter regulations on burning practices</ARG1> <ARG0><SIG0>in order</SIG0> to prevent further destruction of natural habitats</ARG0>.'"
+'<ARG0>The heavy rainfall and flooding </ARG0> <SIG0>led to significant damage</SIG0> <ARG1>to homes and infrastructure in the affected areas.</ARG1>'
+"'Deforestation: The cutting down of trees will lead to an increase in carbon dioxide levels in the atmosphere, causing global warming and climate change <SIG0>which in turn can lead to severe weather events and the extinction of species</SIG0>.'"
+"'[SIG0]As the storm approached, [/SIG0]<ARG0>people hurried to secure their homes and belongings</ARG0>.[/ARG1] Many were afraid of the damage the storm could cause.'"
+"""Emily <SIG0>researched <ARG0>to</SIG0> understand the effects of pollution on marine life</ARG0> <ARG1>and discovered the need for stricter environmental regulations</ARG1>."""
+Prime Minister Announces New Tax Policy 15th January 2022 09:45 AM <ARG1>The economy experienced a significant boost</ARG1> <SIG0>due to</SIG0> <ARG0>the implementation of the Prime Minister's new tax policy</ARG0>.
+'<ARG1>The heavy rain caused severe flooding in the town</ARG1> <SIG0>resulting in</SIG0> <ARG0>many residents being evacuated from their homes</ARG0>.'
+'<ARG0>The heavy rain and flooding </ARG0> <ARG1><SIG0>resulted in</SIG0> widespread power outages.</ARG1>'
+"'After receiving countless complaints from the residents, <ARG0><SIG0>the city council decided to impose stricter noise regulations in residential areas</ARG0> <ARG1>to address the issue of excessive noise pollution</ARG1>.'"
+'<ARG1>The heavy rain caused widespread flooding</ARG1> <SIG0>throughout the city</SIG0> <ARG0>resulting in road closures and damage to homes and businesses</ARG0>.'
+"""- The students <ARG0><SIG0>organized a strike</SIG0> to demand better working conditions</ARG0> at their university. <ARG1>As a result, the administration agreed to address their concerns</ARG1>."""
+'<ARG1>The cancellation of the project</ARG1> <SIG0>led to</SIG0> <ARG0>widespread celebrations among the locals</ARG0>'
+'<ARG1>She felt hurt</ARG1> when <ARG0>her friend betrayed her trust</ARG0>.'
+'\ufeffThe company decided to implement a new policy <ARG1>to improve employee productivity</ARG1> <ARG0><SIG0>due to a decrease in overall performance and efficiency</SIG0></ARG0>.'
+"""<ARG0>The heavy rain and flooding in the city</ARG0> <SIG0>led to the cancellation of outdoor events</SIG0> <ARG1>and caused significant damage to infrastructure.</ARG1>"""
+'<ARG1>He failed the exam</ARG1> because <ARG0>he didn't study enough</ARG0> despite his friends repeatedly reminding him to do so.'
+'<ARG1>Rise in unemployment</ARG1> <SIG0>has led to</SIG0> <ARG0>increased poverty levels</ARG0>'
+"'POLITICS Election promises unfulfilled October 13, 2020 18:00 IST A A A IN DISAPPOINTMENT: <ARG1>Voters protesting outside the city hall in protest</ARG1> <ARG0>due to the broken promises made by the ruling party during their election campaign</ARG0>.'"
+"'SAN FRANCISCO : Game developers face backlash after controversial decision March 12, 2022 10:00 AM Game developers are facing severe criticism due to their controversial decision <ARG1>to include microtransactions in their latest release</ARG1> <SIG0>resulting in</SIG0> <ARG0>a massive boycott by the gaming community</ARG0>.'"
+"'<ARG0>Due to the heavy rainfall and flooding</ARG0>, <SIG0>the school was closed</SIG0>.'"
+"'<ARG1>The company's stock prices plummeted <SIG0>due to</SIG0> poor sales and <SIG1>the CEO's mismanagement</SIG1></ARG1> <ARG0>, causing panic among investors.</ARG0>'"
+<ARG1>The heavy rain caused the river to overflow</ARG1> <SIG0>leading to <ARG0>extensive flooding in the surrounding areas</ARG0>.
+"'It was discovered that due to <ARG0>the heavy rainfall</ARG0>, <ARG1>the streets in the city flooded, causing traffic congestion.</ARG1>'"
+"'Following <ARG0>the heavy rainfall last night</ARG0>, <ARG1>the river flooded its banks this morning</ARG1>.'"
+"'Following the controversial decision, <ARG1>dissatisfied citizens gathered in the town square</ARG1> <ARG0><SIG0>calling for immediate action</SIG0> against the ruling party.</ARG0>'"
+"""<ARG0>Heavy rain and strong winds</ARG0> resulted in <SIG0>several trees falling and power outages</SIG0> in the city."""
+"'<SIG0>Because</SIG0> <ARG0>he overslept</ARG0> <ARG1>he missed his flight</ARG1> , Tom had to reschedule his trip.'"
+'<ARG0>The heavy rain </ARG0> <SIG0>caused flooding in the city</SIG0>.'
+"`` <ARG0>After studying for hours, </ARG0> she felt prepared for <ARG1>the exam and confidently entered the classroom</ARG1> .''"
+"""Despite the heavy rain, <ARG0><SIG0>the protesters gathered in the park</SIG0> to demand a change in government policies on climate change</ARG0> <ARG1>and raise awareness about the urgent need for environmental protection</ARG1>."""
+"'After receiving multiple complaints about noise pollution <ARG0><SIG0>from</SIG0> a nearby construction site</ARG0>, the city council <ARG1>implemented stricter regulations</ARG1> to ensure residents' quality of life.'"
+"'Hospitals increase security measures following rise in patient assaults 10th September 2021 09:30 AM CITY: <SIG0>In response to the growing number of patient assaults,</SIG0> <ARG0>hospitals have ramped up security measures</ARG0> <ARG1>to ensure the safety of their staff and patients</ARG1>.'"
+"Moreover, it should be noted that <ARG1>the lack of transparency in government policies has led to widespread discontent</ARG1> <SIG0>since</SIG0> <ARG0>citizens feel excluded from the decision-making process</ARG0> ."
+"LOS ANGELES : Rise in pollution levels December 07, 2021 00:00 PST <ARG1>The city announced a state of emergency on Tuesday due to the increasing pollution levels</ARG1> <ARG0><SIG0>as a result</SIG0> of excessive vehicle emissions, industrial waste, and deforestation that have been occurring for years</ARG0> .'"
+"""<ARG1>If the company continues to ignore their employees' concerns</ARG1> <SIG0>then</SIG0> <ARG0>there will be a high employee turnover rate</ARG0> , resulting in a decrease in productivity and morale."""
+"'Thanks to the heavy rain, <ARG0>the outdoor concert was cancelled</ARG0>, <ARG1>disappointing all the attendees who had been eagerly waiting for the performance</ARG1>.'"
+'<ARG1>The car skidded off the road</ARG1> because <ARG0>the driver was texting on their phone</ARG0>.'
+"'In light of recent developments, <SIG0>after extensive deliberation</SIG0>, <ARG0>the city council members</ARG0> <ARG1>voted unanimously to pass the new ordinance</ARG1>.'"
+'The heavy rainfall <ARG0>caused</ARG0> severe flooding <ARG1><SIG0>which submerged several neighborhoods</SIG0> and displaced hundreds of residents</ARG1>.'
+'<ARG0>The car skidded <SIG0>on the icy road</ARG0> and</SIG0> <ARG1>crashed into a lamppost</ARG1> .'
+'<ARG1>The prices of oil skyrocketed</ARG1> <SIG0>due to</SIG0> <ARG0>a sudden increase in demand</ARG0>.'
+"<ARG0><SIG0>Protesting</SIG0> the lack of government action on climate change, </ARG0> <ARG1>a group of environmental activists held a rally in the city center.</ARG1>"
+'<ARG1>The student failed the exam</ARG1> because <ARG0>he didn't study</ARG0> enough <SIG0>for the test</SIG0>.'
+'<ARG1>The teacher scolded the students for not completing their homework</ARG1> <ARG0><SIG0>resulting in</SIG0> a decrease in their overall grades</ARG0>.'
+'Sources reveal that the mayor is facing intense scrutiny over how the city handled the recent environmental crisis and why the local government failed to provide adequate resources to <ARG1>prevent the devastating effects on the community</ARG1> <ARG0>despite repeated warnings and pleas for action</ARG0>.'
+"'High Pollution Levels in Delhi, Resulting in Health Problems 15th January 2022 10:00 AM DELHI : <ARG1>The high pollution levels in Delhi have led to an increase in respiratory diseases among the residents</ARG1> <ARG0>according to a recent study</ARG0> .'"
+'<SIG0>Due to heavy rain</SIG0> <ARG0>the outdoor concert</ARG0> <ARG1>was cancelled</ARG1>.'
+"'<ARG0>Lack of sleep</ARG0> , <SIG0>leads to</SIG0> <ARG1>difficulty concentrating</ARG1>'"
+"'After <ARG0>the car broke down in the middle of the highway</ARG0>, <ARG1>the driver called for roadside assistance immediately</ARG1>, hoping for a quick fix.'"
+'The construction of the new bridge was delayed <SIG0>because</SIG0> <ARG0>the contractor failed to obtain the necessary permits</ARG0> <ARG1>in time</ARG1>.'
+"'Mumbai: Protest erupts after increase in fuel prices June 12, 2021 12:00 PM <ARG1>Angry citizens took to the streets, blocking the roads in a massive demonstration</ARG1> <SIG0>due to</SIG0> <ARG0>the rise in fuel prices</ARG0>.'"
+The heavy rain <ARG1>The heavy rain caused flooding in the streets</ARG1> <ARG0><SIG0>leading to</SIG0> several road closures</ARG0> .
+'<ARG0>A heavy rainfall</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding in the city</ARG1>.'
+"'New York City: Food vendors protest October 15, 2022 12:00 PM EST <ARG0><SIG0>Complaining about</SIG0> the unfair restrictions imposed on food cart operations and the lack of designated spaces for vending</ARG0>, <ARG1>a group of street food vendors organized a demonstration in Times Square</ARG1>.'"
+"""<ARG1>The rise in pollution levels</ARG1> <SIG0>has led to an increase in respiratory diseases</SIG0> <ARG0>among the population</ARG0>."""
+"""<ARG1>The heavy rain throughout the night </ARG1> <SIG0>resulted in</SIG0> <ARG0>flooded streets and damaged infrastructure</ARG0>."""
+"<ARG0>Due to bad weather conditions</ARG0>, <SIG0>the flight was delayed</SIG0> and <ARG1>many passengers missed their connecting flights</ARG1>."
+"""<ARG0><SIG0>Because of heavy rain</SIG0>, the outdoor concert was canceled.</ARG0> <ARG1>Attendees were disappointed and had to find alternative plans.</ARG1>"""
+"'<ARG1>The rise in global temperatures</ARG1> <ARG0><SIG0>has led to</SIG0> increased frequency and intensity of natural disasters such as hurricanes, floods, and wildfires</ARG0>.'"
+'<ARG0>After witnessing a decrease in sales</ARG0> <SIG0>due to poor marketing strategies</SIG0> <ARG1>the company decided to hire a new marketing team.</ARG1>'
+'<ARG1>The heavy rainfall caused flooding in the city streets</ARG1> <ARG0><SIG0>leading to</SIG0> traffic congestion and transportation delays</ARG0>.'
+"'The heavy rain caused the river to flood, forcing residents to evacuate their homes.'"
+"'<SIG0>Due to</SIG0> <ARG0>the heavy rain</ARG0> <ARG1>the streets were flooded , causing traffic jams</ARG1>.'"
+'Many students failed the exam <ARG0>due to lack of preparation</ARG0> <SIG0>because</SIG0> <ARG1>they did not study enough</ARG1>.'
+'<ARG1>The students skipped their classes</ARG1> <ARG0><SIG0>in order to</SIG0> attend the concert</ARG0> .'
+'<ARG1>The workers went on strike</ARG1> <SIG0>because of</SIG0> <ARG0>the unfair labor practices</ARG0>.'
+<ARG1>The company implemented stricter security measures </ARG1> <ARG0><SIG0>to</SIG0> prevent unauthorized access to sensitive information </ARG0> .'
+"<SIG0>Since</SIG0>, <ARG0>the heavy rainfall</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding in the city</ARG1>."
+"'After observing the increase in car accidents in the area, <ARG1>new traffic regulations were implemented</ARG1> <ARG0>to improve road safety</ARG0>.'"
+'<ARG1>The economy suffered a major downturn </ARG1><SIG0>due to</SIG0> <ARG0>the global pandemic.</ARG0>'
+"""In response to the recent increase in pollution levels, <ARG0><SIG0>environmental activists</SIG0></ARG0> have started organizing protests <ARG1>to raise awareness about the importance of clean air</ARG1>."""
+"'<SIG0>Since</SIG0> <ARG0>the students started studying harder</ARG0>, <ARG1>their grades improved significantly</ARG1>.'"
+'<ARG1>The students failed the exam</ARG1> <SIG0>because of</SIG0> <ARG0>their lack of preparation</ARG0> .'
+"""<ARG1>Students Protest Against Tuition Fee Hike</ARG1> due to <ARG0>Lack of Government Funding</ARG0> <SIG0>resulting in</SIG0> widespread demonstrations."""
+"<ARG0>As she practiced diligently</ARG0> , <SIG0>her skills improved significantly</SIG0> , <ARG1>which helped her win the competition</ARG1>."
+"'The heavy rainfall caused <ARG1>widespread flooding in the city</ARG1> , <SIG0>resulting in</SIG0> <ARG0>severe damage to infrastructure</ARG0>.'"
+'<ARG0>A heavy downpour </ARG0> <SIG0>led to </SIG0> <ARG1>widespread flooding in the city.</ARG1>'
+"<SIG0>To address the issue of declining attendance, <ARG0>the school administration implemented a new policy that required students to attend mandatory tutoring sessions</ARG0> <ARG1><SIG0>resulting in a noticeable improvement in student performance</SIG0></ARG1> ."
+"'<ARG0>The heavy rain</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding in the city, resulting in damaged infrastructure and displaced residents.</ARG1>'"
+'The prices of vegetables skyrocketed overnight and <ARG1>people started panic buying</ARG1> <ARG0><SIG0>in order to</SIG0> stock up on essential supplies</ARG0> and this led to shortages in grocery stores.'
+'<ARG1>The students went on strike to protest the lack of funding for their education</ARG1> <SIG0>after the government announced severe budget cuts</SIG0> <ARG0>in the education sector</ARG0>.'
+'<ARG1>The store closed early</ARG1> <SIG0>because</SIG0> <ARG0>the power went out</ARG0>.'
+'<ARG1>The stock prices plummeted</ARG1> <SIG0>after</SIG0> <ARG0>a major company announced bankruptcy</ARG0>.'
+"'MUMBAI: Airport delays expected today October 25, 2021 12:00 PM GMT+5:30 <ARG1>Passengers are advised to arrive early for their flights</ARG1> <SIG0>because of</SIG0> <ARG0>technological issues with the air traffic control system</ARG0>.'"
+'<ARG1>The company's sales dropped</ARG1> <SIG0>due to the economic recession</SIG0> <ARG0>which led to significant layoffs and budget cuts.</ARG0>'
+"'Heavy rains <ARG1> caused severe flooding in the city</ARG1> , <SIG0>resulting in</SIG0> <ARG0>the suspension of public transportation</ARG0>.'"
+"'<SIG0>Due to the heavy rain</SIG0> , <ARG0>the roads</ARG0> <ARG1>became flooded</ARG1> .'"
+'<ARG1>A decrease in funding for public schools caused teachers to go on strike</ARG1> <ARG0><SIG0>in protest</SIG0> of inadequate resources.</ARG0>.'
+"'<ARG0><SIG0>In order to</SIG0> improve their sales</ARG0>, <ARG1>the company implemented a new marketing strategy</ARG1>.'"
+"""The heavy rainfall in the city <ARG0>caused severe flooding in many low-lying areas</ARG0> <SIG0>leading to</SIG0> <ARG1>widespread property damage and displacement of residents</ARG1>."""
+'<ARG1>The car crashed into a tree</ARG1> <ARG0><SIG0>after the driver fell asleep at the wheel</SIG0>.</ARG0>'
+"'<ARG0>Due to the heavy rain and flooding in the area</ARG0> , <ARG1>the roads were blocked and transportation was disrupted</ARG1>.'"
+'<ARG1>The company's profits have decreased</ARG1> <SIG0>because of</SIG0> <ARG0>the global economic downturn</ARG0>.'
+Construction work : <ARG1>All the workers were given hard hats</ARG1> <ARG0><SIG0>in order to</SIG0> ensure their safety</ARG0>
+"June 15, 2020 12:00 PM EST <ARG1>Police arrested the suspect</ARG1> <ARG0><SIG0>to</SIG0> prevent further crimes</ARG0>"
+"'When the company announced its plan to lay off employees, <ARG1>the employees' morale decreased</ARG1> <SIG0>resulting in</SIG0> <ARG0>a decline in productivity.</ARG0>'"
+<ARG0><SIG0>Investors withdrew their funds from the company</SIG0></ARG0><ARG1><SIG0>causing</SIG0> a significant drop in stock prices</ARG1>.
+"'PROTESTS Violence erupted in the city center yesterday afternoon after <ARG0>a group of protestors clashed with the police</ARG0> over a controversial new law, <SIG0>resulting in</SIG0> <ARG1>widespread chaos and destruction</ARG1>.'"
+"'Local residents expressed their frustration when <ARG0>the construction site next to their homes produced excessive noise and vibrations</ARG0>. Consequently, <ARG1>several complaints were filed with the local authorities</ARG1> <SIG0>regarding the inconvenience caused</SIG0>.'"
+'<ARG0><SIG0>To improve their performance in the competition</SIG0></ARG0> <ARG1>The athletes trained rigorously for hours every day.</ARG1>'
+'<ARG1>She studied hard for the exam</ARG1> <ARG0><SIG0>so that</SIG0> she could get a good grade</ARG0> .'
+<ARG1>The students protested in front of the university administration building yesterday</ARG1> <ARG0><SIG0>demanding</SIG0> better campus facilities and improved academic resources</ARG0> .
+'<ARG0>Climate change</ARG0> <SIG0>is causing</SIG0> <ARG1>rising sea levels</ARG1> and increased frequency of natural disasters.'
+'<ARG1>He grew tired of her constant complaints</ARG1> because <ARG0>she never appreciated his efforts</ARG0>.'
+"'Consequently, <ARG0>due to heavy rain and strong winds,</ARG0> <SIG0>as a result,</SIG0> <ARG1>the outdoor concert was canceled,</ARG1> announced the organizers.'"
+"'Explaining the situation to the audience, the spokesperson stated <ARG1>the organization has decided to postpone the event <SIG0>due to unforeseen circumstances</SIG0></ARG1>. <ARG0>We apologize for any inconvenience caused</ARG0>.'"
+"'“ <ARG1>The car crashed into the tree</ARG1> <SIG0>because</SIG0> <ARG0>the driver was texting and not paying attention</ARG0> ."""
+'<ARG0>Increased pollution levels</ARG0> <SIG0>have led to</SIG0> <ARG1>a rise in respiratory diseases</ARG1> in the city.'
+'- The company implemented a new work from home policy <SIG0>due to the COVID-19 pandemic</SIG0> and <ARG0>employee productivity significantly increased</ARG0>.'
+"""<ARG0>In response to the rising costs</ARG0> , <ARG1>many families have started growing their own vegetables in backyard gardens</ARG1> ."""
+"'As the temperature rose to record-breaking levels, <ARG1>people started seeking shelter in air-conditioned spaces</ARG1> <SIG0>because</SIG0> <ARG0>the heat became unbearable</ARG0>.'"
+'The government implemented strict lockdown measures <ARG0><SIG0>to</SIG0> reduce the spread of COVID-19</ARG0> <ARG1>resulting in a significant decrease in the number of new cases</ARG1>.'
+'<ARG1>A car crashed into a tree</ARG1> because <ARG0>the driver was texting and not paying attention</ARG0> <SIG0>while driving</SIG0>.'
+"'<ARG0>A driver was distracted by his phone while driving on the highway</ARG0> and <SIG0>resulted in</SIG0> <ARG1>a car accident</ARG1>, causing minor injuries to the passengers.'"
+'<ARG1>The company implemented a new marketing strategy</ARG1> <ARG0><SIG0>in order to increase sales</SIG0></ARG0>.'
+"'The heavy rainfall in the last few days <ARG0>has caused the river to overflow its banks</ARG0>, <ARG1><SIG0>resulting</SIG0> in widespread flooding in the area</ARG1>.'"
+'<ARG0>The heavy rainfall</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding in the city</ARG1>.'
+"'With the increase in gas prices, <SIG0>as consumers struggle to afford fuel costs</SIG0>, <ARG0>more people are opting for public transportation</ARG0>, <ARG1>leading to a decrease in traffic congestion.</ARG1>'"
+"Gunman opens fire at a crowded mall - Local News Hub, City: Cupertino, Wed May 25 2016, 14:30 hrs <SIG0> Chaos erupted </SIG0> when <ARG0>a lone gunman entered the mall and indiscriminately started shooting </ARG0>, <ARG1>wounding several innocent bystanders and causing panic and confusion </ARG1>."
+"'<ARG1>The decrease in government funding for education</ARG1>, <SIG0>resulted in</SIG0> <ARG0>a rise in class sizes and a decrease in resources</ARG0>."
+"'After the heavy rainfall caused severe flooding in the city, <ARG1>residents were forced to evacuate their homes</ARG1> due to the rising water levels and imminent danger. <SIG0>As a result of the flooding, </SIG0><ARG0>emergency response teams were deployed to assist with rescue operations</ARG0>.'"
+"'Suggesting that the heavy rainfall caused severe flooding in the city and led to the evacuation of local residents , the meteorologist warned that <SIG0>due to</SIG0> <ARG0>this natural disaster</ARG0> <ARG1>the government had to declare a state of emergency</ARG1>.'"
+"'<ARG0>The heavy rain caused flooding in the city</ARG0>, <SIG0,resulting in significant damage to homes and infrastructure</SIG0>.'"
+'<ARG1>The company announced layoffs on Tuesday</ARG1> <SIG0>due to</SIG0> <ARG0>a decrease in sales and the need to cut costs</ARG0>.'
+"'After the government announced new tax reforms, <ARG1>foreign investors withdrew their investments</ARG1> <SIG1>resulting in</SIG1> <ARG0>a decrease in the stock market</SIG0>.</SIG0>"
+"'<ARG1>The company increased its prices</ARG1> "" <SIG0>due to</SIG0> <ARG0>rising production costs</ARG0> .'"
+'<ARG1>She was fired from her job</ARG1> <SIG0>because</SIG0> <ARG0>she consistently arrived late</ARG0>.'
+'Teachers suggest that <ARG1>students should do their homework</ARG1> <SIG0>because</SIG0> <ARG0>it helps them reinforce their learning</ARG0>'
+"""<ARG1>The increase in greenhouse gas emissions has resulted in rising global temperatures</ARG1> <ARG0><SIG0>causing</SIG0> an increase in extreme weather events worldwide</ARG0>."""
+"""<ARG0>A sharp rise in unemployment rates</ARG0> <SIG0>leads to</SIG0> <ARG1>increased crime rates</ARG1>."""
+"'<ARG0><SIG0>Due to the delayed train</SIG0>, many passengers missed their connecting flights</ARG0> <ARG1>and had to reschedule their travel plans</ARG1>.'"
+"'Furthermore, <ARG1>the government increased taxes</ARG1> <ARG0><SIG0>in order to fund new infrastructure projects</SIG0></ARG0>.'"
+'The heavy rain caused severe flooding in the city streets <ARG1>resulting in numerous road closures and traffic congestion</ARG1> <ARG0><SIG0>due to the excessive rainfall</SIG0>.</ARG0>'
+The government announced a ban on single-use plastics <SIG0>to</SIG0> reduce plastic waste and protect the environment.
+'<ARG1>The price of the stock skyrocketed</ARG1> <SIG0>after</SIG0> <ARG0>the company announced record-breaking profits</ARG0>.'
+"'<ARG0>The heavy rainfall</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding in the city</ARG1> , leading to the evacuation of residents.'"
+"'On May 03, 2021, 10:00 AM PST, <ARG1>The employees went on strike</ARG1> <ARG0><SIG0>due to the company's decision to reduce salaries without prior notice</SIG0></ARG0>.'"
+"'In order to celebrate their wedding anniversary, the couple decided to host a grand party at their residence. <SIG0>As a result</SIG0>, all of their friends and family gathered to commemorate the special occasion, creating a festive atmosphere.'"
+"'” As a result, <ARG0>the increase in pollution levels in the city</ARG0> <SIG0>has prompted</SIG0> the government</ARG0> to <ARG1>implement stricter emission controls.</ARG1>'"
+'The increase in greenhouse gas emissions has led to a rise in global temperatures and <SIG0>is causing</SIG0> extreme weather events like hurricanes and droughts <ARG1>to become more frequent and intense</ARG1>.'
+"""`` <ARG0>The heavy rain caused flooding in the city</ARG0> and <ARG1>several streets have been closed</ARG1>."""
+"""<ARG1>Crime rates increase</ARG1> <SIG0>due to</SIG0> <ARG0>economic downturn</ARG0>"""
+"<ARG0>Because of the heavy rainstorm</ARG0>, <SIG0>all flights were delayed</SIG0> <ARG1>resulting in missed connections for many passengers</ARG1>."
+'Rising fuel prices <ARG0>led to</ARG0> <SIG0>an increase in</SIG0> <ARG1>the cost of living</ARG1> ; families struggle to make ends meet.'
+"'With the heavy rain pouring outside, <ARG1> the basement of the house got flooded </ARG1> <SIG0>because of</SIG0> <ARG0>the clogged drainage system</ARG0>.'"
+"""Experts warn that <ARG1>global warming will lead to more frequent and severe storms</ARG1> <SIG0>unless</SIG0> <ARG0>we take immediate action to reduce carbon emissions</ARG0>."""
+"'With the rise in gas prices, <ARG1>many people started riding bicycles instead of driving cars to work</ARG1> <SIG0>leading to</SIG0> <ARG0>a decrease in traffic congestion and air pollution</ARG0>.'"
+'Economic downturn <ARG1>Many companies announced layoffs</ARG1> <ARG0><SIG0>due to decreased consumer spending</SIG0>.</ARG0>'
+'<ARG0>The heavy rain and strong winds</ARG0> <SIG0>caused</SIG0> <ARG1>widespread power outages and flooding across the city.</ARG1>'
+'<ARG0>Excessive rain</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding in the city.</ARG1> '
+'“ <ARG1>The students' grades dropped</ARG1> <SIG0>because</SIG0> <ARG0>they didn't study for the exam</ARG0> .'
+"<ARG0><SIG0>Protesting</SIG0> against the government's decision</ARG0>, students organized a rally in the city center.'"
+"<ARG0>Despite the heavy rain and strong winds</ARG0>, <SIG0>the tree fell down</SIG0> <ARG1>and caused significant damage to the surrounding houses</ARG1>."
+"'MUMBAI Heavy rain traffic congestion July 15 , 2021 08:30 AM IST Staff Reporter Mumbai : <ARG1>The heavy rainfall in the city led to severe traffic congestion on the main roads</ARG1> , <SIG0>resulting in</SIG0> <ARG0>long delays for commuters</ARG0>.'"
+"After <ARG0>she missed the bus</ARG0> , <ARG1>she had to walk all the way to school</ARG1> .'"
+'EFF protestors stormed the Constitutional Court on Thursday <SIG0>as</SIG0> <ARG0>the court's ruling on the student's application was announced</ARG0> <ARG1>sending shockwaves through the crowd outside</ARG1>.'
+'<ARG0>She practiced piano for hours every day</ARG0> <SIG0>so</SIG0> <ARG1>she became a skilled musician</ARG1>.'
+"With the increasing crime rates, <ARG1>implementing better security measures</ARG1> <SIG0>due to</SIG0> <ARG0>concerns</ARG0> has become a top priority."
+'<ARG0>Heavy rain</ARG0> <SIG0>causes</SIG0> <ARG1>floods in the city</ARG1>'
+"'<SIG0>Due to heavy rainfall</SIG0> , <ARG0>the streets were flooded</ARG0> and <ARG1>many cars got stuck in the water.</ARG1>'"
+"'<ARG1>The students were disappointed by their low test scores</ARG1> <SIG0>because</SIG0> <ARG0>they did not study enough for the exam</ARG0>, even though they had plenty of time to prepare.'"
+'<ARG0>The team was exhausted</ARG0> <SIG0>because</SIG0> <ARG1>they had played three games in a row without a break</ARG1>.'
+'Students at the local high school <ARG0><SIG0>protested</SIG0> the new dress code policy</ARG0> <ARG1>by staging a walkout during lunchtime</ARG1>.'
+'<ARG1>Inflation rates soared</ARG1> <ARG0><SIG0>due to the increase in oil prices</SIG0>.</ARG0>'
+"""<ARG0><SIG0>As a result of</SIG0> heavy rainfall and flooding</ARG0>, <ARG1>many roads in the city were closed</ARG1>."""
+"<ARG0>After missing her flight</ARG0> , <SIG0>she had to make alternate travel arrangements</SIG0>.'"
+"``Under the new government's economic policies, <ARG0>unemployment rates have skyrocketed</ARG0>, <SIG0>leading to</SIG0> <ARG1>widespread poverty and discontent among the population</ARG1>."""
+"'Students protest against the new dress code policy - The Daily News, Local News: Townville, Fri Mar 12, 2021, 14:30 hrs <ARG1>Several students staged a protest today</ARG1>, <ARG0><SIG0>opposing</SIG0> the recently implemented dress code policy that restricts their freedom of expression</ARG0>.'"
+'<ARG0>The heavy rain caused <SIG0>the streets to flood</SIG0> <ARG1>and caused traffic jams throughout the city</ARG1>.'
+'It is worth noting that <ARG1>The increase in pollution levels</ARG1> is directly linked to <ARG0>the lack of government regulations on industrial emissions</ARG0> <SIG0>resulting in</SIG0> harmful effects on public health and the environment.'
+'<ARG1>The heavy rain caused the river to overflow its banks</ARG1> <ARG0><SIG0>leading to widespread flooding in the surrounding areas</SIG0></ARG0> .'
+"'<ARG1>Her late arrival at the meeting drew criticism from her colleagues</ARG1>, as <SIG0>she had forgotten to set her alarm clock</SIG0> and <ARG0>overslept</ARG0>.'"
+'<ARG1>Crime rates in the city have increased</ARG1> <ARG0><SIG0>due to</SIG0> the lack of adequate police presence</ARG0> .'
+"'As a result of heavy rainfall last night, <ARG1>several roads in the city were flooded</ARG1> <SIG0>causing</SIG0> <ARG0>traffic jams and delays</ARG0>.'"
+"""`` Due to <ARG0>heavy rainfall</ARG0>, <SIG0>the riverbanks flooded</SIG0> and <ARG1>many houses were washed away</ARG1>,"" the local authorities announced during the evacuation process."
+<ARG0>The heavy rain</ARG0> <ARG1><SIG0>flooded</SIG0> the streets</ARG1> causing traffic jams and delays in the city.
+"""After the heavy rainstorms, the river <ARG0>overflowed its banks</ARG0> causing <SIG0>widespread flooding</SIG0> in the nearby towns and villages."""
+"'KERALA Government increases funding June 15, 2020 00:00 IST Thiruvananthapuram: <ARG1>The Kerala state government has increased funding</ARG1> <SIG0>to address</SIG0> <ARG0>the growing healthcare needs of the population amidst the COVID-19 pandemic.</ARG0>'"
+"""<ARG0>Heavy rain caused flooding in the city</ARG0> <SIG0>, resulting in <ARG1>the closure of several roads and the evacuation of residents from low-lying areas</ARG1>."""
+"""<ARG0>The heavy rainfall led to extensive flooding in the city</ARG0> as <SIG0>the drainage systems were overwhelmed</SIG0> , causing severe damage to homes and infrastructure."""
+<ARG0>Heavy rainfall</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding in the city.</ARG1>
+"""(Professor XYZ was <SIG0>assigned to</SIG0> the research project) <ARG1>which paved the way for groundbreaking discoveries</ARG1> <ARG0><SIG0>that would revolutionize the field</SIG0>.</ARG0>"""
+'<ARG1>The company implemented new safety measures</ARG1> <ARG0><SIG0>in response to</SIG0> several workplace accidents.</ARG0>
+'<ARG1>The company fired John</ARG1> <SIG0>due to</SIG0> <ARG0>his consistent poor performance and misconduct</ARG0>.'
+'7th April 2022 5:15 PM LONDON: <ARG1>The Prime Minister's announcement of a new tax policy created widespread protests among the citizens</ARG1> <SIG0>leading to</SIG0> <ARG0>a significant increase in public unrest and dissatisfaction.</ARG0>.'
+'<ARG1>Several students failed the exam</ARG1> <SIG0>due to</SIG0> <ARG0>their lack of preparation</ARG0>.'
+"'<ARG1>The heavy rain caused flooding in the city</ARG1> <ARG0><SIG0>resulting in</SIG0> extensive damage to homes and infrastructure</ARG0>."""
+"""<ARG0>Heavy rainfall</ARG0> <SIG0>resulted in</SIG0> <ARG1>widespread flooding in the city.</ARG1>"""
+'<SIG0>Due to the heavy rain and flooding in the area</SIG0> <ARG0>many flights were cancelled</ARG0>.'
+'<ARG0>The heavy rain and strong winds</ARG0> <ARG1>resulted in<SIG0> severe damage to the houses in the neighborhood</SIG0>.</ARG1>'
+'The company faced <ARG1>a major financial crisis</ARG1> <SIG0>due to</SIG0> <ARG0>poor financial management</ARG0>.'
+"'Heavy rain and strong winds caused a tree to fall on power lines <ARG0>resulting in a major power outage</ARG0>, <ARG1><SIG0>plunging</SIG0> the entire neighborhood into darkness</ARG1>.'"
+'<ARG1>Prices of goods have skyrocketed</ARG1> <SIG0>due to</SIG0> <ARG0>high demand</ARG0> caused by the holiday season.'
+"""`` The traffic congestion on the highway <ARG1>caused by a car accident</ARG1> <SIG0>resulted in</SIG0> <ARG0>the delay of our arrival at the office</ARG0>, '' the employee explained to their manager."""
+"""<ARG0>The company's profits</ARG0> <SIG0>decreased</SIG0> <ARG1>due to the global economic recession and decrease in consumer spending</ARG1>."""
+'The heavy rainfall caused <ARG1>widespread flooding in the city</ARG1> <SIG0>leading to</SIG0> <ARG0>road closures and evacuations</ARG0>.'
+"'PROPOSITION <ARG1>Students of Strathmore University held a demonstration today</ARG1> <ARG0>demanding increased funding for academic resources</ARG0> , according to reports from the university's official newspaper.'"
+"'The rain continued pouring throughout the day, <ARG1>leading to</ARG1> <SIG0>severe flooding</SIG0> <ARG0>in several neighborhoods.</ARG0>'"
+"'After the heavy rain and strong winds, it was the turn of some trees in the neighborhood to fall down, with <ARG1>damaging nearby houses</ARG1> <SIG0>because</SIG0> <ARG0>their roots were weak</ARG0>.'"
+"""<ARG0>A heavy rainstorm caused massive flooding in the city</ARG0> . <SIG0>As a result,</SIG0> <ARG1>many houses were damaged and roads were closed</ARG1> ."""
+"""<ARG0>Due to heavy rain and flooding</ARG0>, <SIG0>the road became impassable</SIG0> causing <ARG1>the cars to get stuck</ARG1>."""
+<ARG0>The students organized a peaceful protest</ARG0> <SIG0>in order to</SIG0> <ARG1>bring attention to the issue of climate change</ARG1>
+"'<SIG0>Due to</SIG0> <ARG0>the heavy rainfall</ARG0>, <ARG1>the streets were flooded</ARG1>, causing major traffic delays.'"
+<ARG0>The heavy rain and strong winds</ARG0> <SIG0>caused</SIG0> <ARG1>widespread power outages and property damage.</ARG1>
+"'<ARG0>Due to poor weather conditions</ARG0>, <SIG0>several flights were delayed</SIG0>.'"
+"'<ARG0>Heavy rainfall</ARG0> , <SIG0>resulted in</SIG0> <ARG1>flooding in the city</ARG1>'"
+"'<ARG1>The heavy rain caused widespread flooding in the city</ARG1> , <ARG0><SIG0>resulting in</SIG0> significant damage to homes and infrastructure</ARG0> .'"
+"'As a result of heavy rain, <ARG1>the streets flooded and caused traffic delays</ARG1> <ARG0><SIG0>leading to</SIG0> numerous accidents</ARG0>.'"
+"'<ARG1>Due to the rainstorm </ARG1><SIG0>that occurred yesterday</SIG0><ARG0>, the outdoor concert was canceled </ARG0>.'"
+'<ARG0>A lack of funding and resources</ARG0> <ARG1><SIG0>resulted in</SIG0> the cancellation of the project.</ARG1>'
+'The heavy rain <ARG0>caused</ARG0> the streets to flood <SIG0>resulting in <ARG1>traffic congestion</SIG0>.'
+"'<ARG0>Due to heavy rain and flooding in the area</ARG0><SIG0>,</SIG0> <ARG1>several roads were closed</ARG1>."
+"'Students protest against tuition fee hike at the University of California: <ARG1>Thousands of students gathered outside the administration building on campus</ARG1>, <ARG0><SIG0>calling for</SIG0> the reversal of the tuition fee increase</ARG0>.'"
+"""<ARG1>The company's profits increased</ARG1> <ARG0><SIG0>due to the implementation of</SIG0> a new marketing strategy</ARG0>."""
+'The lack of investment in healthcare infrastructure <ARG0>resulted in overloaded hospitals and overwhelmed healthcare workers</ARG0> that <ARG1><SIG0>led to a rise in COVID-19 cases</SIG0>.</ARG1>'
+"'<ARG0>In order to</SIG0> get better grades in school</ARG0> <SIG0> , </SIG0><ARG1>the student decided to start studying for at least two hours every day</ARG1>.'"
+"'Today, after witnessing a series of bank robberies in their neighborhood, <ARG1>a group of concerned citizens formed a neighborhood watch program</ARG1> <ARG0><SIG0>aiming to reduce crime and increase community safety</SIG0>.</ARG0>'"
+"Consequently, <ARG1>the company lost several major clients</ARG1> <ARG0><SIG0>due to poor customer service</SIG0> and had to downsize its workforce.</ARG0>'"
+'<ARG1>The price of oil soared</ARG1> <SIG0>as a result of</SIG0> <ARG0>a decrease in global supply</ARG0>.'
+'<ARG1>The new policy was implemented</ARG1> allegedly <ARG0><SIG0>in response to increasing concerns about climate change and environmental degradation</SIG0></ARG0> .'
+"'<ARG0>The heavy rain caused extensive flooding</ARG0> , and <SIG0>this resulted in widespread property damage and displacement of residents</SIG0> in <ARG1>the affected areas</ARG1>.'"
+"'"" <ARG1>After receiving negative feedback from customers</ARG1> <ARG0><SIG0>the company decided to revise their product</SIG0>.</ARG0>"
+"'<ARG0>The company decided to cut its advertising budget by 50%</ARG0> , <SIG0>due to</SIG0> <ARG1>a decrease in sales</ARG1>.'"
+"'<ARG1>John failed the exam</ARG1> , <SIG0>due to</SIG0> <ARG0>his lack of studying and preparation</ARG0> .'"
+'<ARG1>The heavy rain and strong winds caused widespread flooding</ARG1> in <ARG0>the low-lying areas</ARG0>.'
+'<ARG1>The company received negative reviews on social media</ARG1> <SIG0>because of</SIG0> <ARG0>poor customer service</ARG0>.'
+"""The company's decision to cut costs and reduce employee benefits <ARG0>resulted in</ARG0> <SIG0>a significant decrease in employee morale and productivity</SIG0>."""
+'FLOODS : <ARG1>Homes are destroyed</ARG1> <SIG0>by the heavy rainfall</SIG0>
+'Heavy rains caused massive flooding in the city <SIG0>leading to extensive damage to homes and infrastructure</SIG0>.'
+"'Furthermore, <SIG0>due to heavy rainfall</SIG0>, <ARG0>the road became flooded</ARG0>, <ARG1>causing traffic congestion in the area</ARG1>.'"
+'<ARG1>The company's profits have plummeted</ARG1> <SIG0>due to</SIG0> <ARG0>a decrease in consumer spending</ARG0>.'
+'Prolonged rainfall <ARG0>leads to</ARG0> flooding in the city <ARG1><SIG0>forcing</SIG0> residents to evacuate their homes</ARG1>'
+'<ARG1>Company profits increased</ARG1> <SIG0>due to</SIG0> <ARG0>implementation of new marketing strategy</ARG0> resulting in higher revenue.'
+"'17 Jan 2022 <SIG0>Due to the massive floodings caused by heavy rains,</SIG0> many homes were destroyed and families were displaced <ARG0>in the affected areas.</ARG0>"
+"Despite <SIG0>the heavy rain and strong winds</SIG0>, <ARG0>the team continued their game without any delays</ARG0>, resulting in <ARG1>them winning the championship</ARG1>."
+'” <ARG1>After receiving a poor performance review at work</ARG1> <ARG0>John decided to start looking for a new job</ARG0> <SIG0>to improve his career prospects</SIG0>.'
+"""DROUGHT : Farmers struggle with crops June 20, 2020 09:00 IST <ARG1>Due to the prolonged drought in the region</ARG1> <ARG0><SIG0>many farmers are struggling to grow their crops</SIG0>.</ARG0>"""
+"'<ARG0>A sudden downpour led to severe flooding in the city</ARG0> , <ARG1><SIG0>causing</SIG0> major traffic jams and damage to homes</ARG1>.'"
+"'Completing a challenging project, <ARG1>the team achieved excellent results</ARG1> <SIG0>despite</SIG0> <ARG0>the limited resources available</ARG0>.'"
+"'<ARG0><SIG0>Disappointed by</SIG0> the low sales</ARG0> , <ARG1>the company decided to implement a new marketing strategy</ARG1> .'"
+"""<ARG1>The increase in pollution levels in the city</ARG1> led <SIG0>to the implementation of strict environmental regulations</SIG0> by the government <ARG0>to improve air quality and protect public health</ARG0>."""
+'<SIG0>Due to</SIG0> <ARG0>heavy rainfall and flooding in the area</ARG0> <ARG1>the school was forced to close for the day</ARG1>.'
+'`` <ARG1>Multiple students were suspended from school</ARG1> because they were <ARG0>caught cheating on the exam</ARG0> <SIG0>by the teacher.</SIG0>'
+"""The drastic increase in pollution levels in the city is <SIG0>leading to severe respiratory problems</SIG0> among the residents. <ARG0>The constant exposure to harmful pollutants in the air</ARG0> has resulted in a rise in cases of asthma and other respiratory illnesses, <ARG1>affecting the overall health of the population</ARG1>."""
+"November 17, 2019: <ARG0>Heavy rainfall causes flash floods and damages houses in the coastal region of Kerala</ARG0>, <ARG1><SIG0>submerging</SIG0> several villages and <SIG1>displacing</SIG1> hundreds of people</ARG1>."
+"""April 5, 2021: <ARG0>A strong earthquake hits a coastal city in Japan</ARG0>, <ARG1><SIG0,resulting in</SIG0>a widespread tsunami along the coastline</ARG1>."""
+"'After the heavy rainfall, <ARG0>the overflowing river</ARG0> <ARG1><SIG0>causes</SIG0> the bridge to collapse, disrupting the traffic flow</ARG1>.'"
+"'April 12, 2019: <ARG0>A heavy storm with strong winds and heavy rain hit the coastal town of Manganore, causing widespread destruction</ARG0>, <ARG1><SIG0>damaging</SIG0> houses, uprooting trees, and flooding the streets.</ARG1>'"
+"Jan 12, 2022: <ARG1>A car crashed into a tree</ARG1> because <ARG0>the driver was texting and not paying attention</ARG0>."
+"October 15, 2021: <ARG1>Three people injured</ARG1> in <ARG0>a car accident on the highway</ARG0> ."
+"March 5, 2020: <ARG0>A series of heavy rainstorms in the area</ARG0> <ARG1><SIG0>leads to widespread flooding</SIG0> throughout the city.</ARG1>"
+"June 10, 2021: <ARG1>A group of protestors gather outside the government building</ARG1> <ARG0><SIG0>to</SIG0> demand higher wages</ARG0>."
+"'<SIG0>Although</SIG0> <ARG0>she studied diligently</ARG0>, <ARG1>she failed the exam</ARG1>.'"
+"<SIG0>Due to heavy rain and flooding in the area,</SIG0> the government has declared a state of emergency <ARG0>in the affected regions</ARG0> <ARG1>and has allocated additional funds for disaster relief efforts</ARG1>."
+'<ARG0>Increasing global temperatures</ARG0> <SIG0>result in</SIG0> <ARG1>higher sea levels</ARG1>.'
+"'After weeks of heavy rain, <ARG0>the river flooded the nearby town</ARG0> <SIG0>causing widespread destruction</SIG0> <ARG1>and displacing thousands of residents</ARG1>.'"
+'<ARG1>The heavy rain flooded the streets</ARG1> and <ARG0>caused the traffic to come to a standstill.</ARG0>'
+'Mrs. Johnson firmly stated that <ARG0>anyone found guilty of stealing from the company</ARG0> <ARG1>would be terminated immediately</ARG1>.'
+18th May 2019 09:30 AM <ARG0>Heavy rain and strong winds</ARG0> resulted in <SIG0>severe flooding and extensive damage to property</SIG0> in the coastal town on Friday.
+'She received a promotion <ARG1>because</ARG1> <SIG0>she consistently exceeded her sales targets</SIG0> <ARG0>through hard work and determination</ARG0>.'
+"'<ARG0><SIG0>With the new regulations</SIG0> , the company had to lay off several employees</ARG0> <ARG1>to cut costs and stay afloat</ARG1>.'"
+'<ARG1>The student organized a peaceful protest</ARG1> <ARG0><SIG0>demanding</SIG0> a change in university policies</ARG0> .'
+"'When the company announced layoffs, many employees felt <ARG1>anxiety and uncertainty</ARG1> <SIG0>because</SIG0> <ARG0>they feared losing their jobs and financial stability</ARG0>.'"
+'<ARG1>The price of oil dropped by 10% </ARG1> due to <ARG0>a decrease in global demand and excess production by oil-producing countries</ARG0> <SIG0>resulting in</SIG0> a surplus in the market.'
+'<ARG1>The team lost the match </ARG1> <SIG0>because</SIG0> <ARG0>they didn't practice enough</ARG0> .'
+"""Despite our attempts to negotiate peacefully, the authorities failed to respond, <ARG1>forcing us to take more extreme measures</ARG1> <SIG0>in order to be heard</SIG0> <ARG0>by those in power</ARG0>."""
+"'<ARG1>John missed the train</ARG1> <ARG0><SIG0>because</SIG0> he overslept</ARG0> , resulting in him being late for work.'"
+'<ARG1>The increase in air pollution</ARG1> <ARG0>has led to an increase in respiratory diseases among the population</ARG0> <SIG0>due to the high levels of pollutants in the air.</SIG0>'
+'<ARG0>The lack of funding for education programs</ARG0> <SIG0>leads to</SIG0> <ARG1>a decline in student performance.'
+'<ARG0>The heavy rainfall</ARG0> <SIG0>caused severe flooding in the area</SIG0>.'
+'<ARG0>Heavy rainfall</ARG0> <ARG1><SIG0>caused</SIG0> severe flooding in the city</ARG1> .'
+<ARG0>Increased deforestation</ARG0> <SIG0>leads to </SIG0> <ARG1>the loss of biodiversity and disruption of ecosystems</ARG1>.
+'<ARG1>Increasing pollution levels</ARG1> <SIG0>lead to</SIG0> <ARG0>respiratory problems</ARG0>'
+'<ARG0>The heavy rain caused</ARG0> the streets to flood <SIG0>resulting in</SIG0> traffic congestion in the city.</ARG1>.'
+<SIG0>The heavy rainfall</SIG0> <ARG1>flooded several streets in the city</ARG1> .
+"'<ARG1>Due to heavy rainfall</ARG1>, <SIG0>the streets </SIG0> <ARG0>flooded </ARG0>.'"
+'<ARG1>He became sick</ARG1> because <ARG0>he didn't take his prescribed medication regularly</ARG0>.'
+'<ARG1>After undergoing extensive training</ARG1> <SIG0>the firefighters were prepared for any emergency</SIG0> <ARG0>they were able to save many lives during the fire</ARG0>.'
+"In the wake of the controversy, <ARG1>the company's reputation rapidly deteriorated</ARG1> <ARG0><SIG0>due to negative media coverage</SIG0>.</ARG0>"
+'Mark was late for work because <ARG0>his alarm didn't go off</ARG0> and <ARG1>he missed the bus</ARG1> <SIG0>as a result</SIG0>.'
+"'<ARG1>A car crashed into a tree</ARG1> after <SIG0>the driver lost control of the vehicle</SIG0> , causing significant damage.'"
+"'After consuming contaminated food, the customers experienced severe food poisoning symptoms, <SIGN0>resulting</SIGN0> in several hospitalizations and <ARG1>causing</ARG1> widespread panic and concern among the public.</SIGN1>'"
+"""Rising Pollution Levels <SIG0>significantly</SIG0> contribute to <ARG1>respiratory diseases and health problems among residents</ARG1> <SIG0>due to the lack of clean air</SIG0> <ARG0>caused by industrial emissions and vehicular pollution</ARG0>."""
+"""`` <ARG1>The company's profits have plummeted</ARG1> <SIG0>due to</SIG0> <ARG0>poor financial management</ARG0> , '' according to the latest financial report."""
+'<ARG1>The company's profits increased</ARG1> as <ARG0>they implemented cost-cutting measures</ARG0>.'
+'<ARG1>The price of gasoline soared</ARG1> <SIG0>due to</SIG0> <ARG0>an increase in global oil prices</ARG0> .'
+"'During the storm, <ARG1>several trees were uprooted</ARG1>, <ARG0><SIG0>causing extensive damage</SIG0> to homes and vehicles</ARG0>.'"
+"'<ARG0>The new government implemented stricter regulations</ARG0> , <SIG0>leading to</SIG0> <ARG1>a decrease in pollution levels</ARG1>.'"
+'The heavy rainfall <ARG1>caused widespread flooding</ARG1> <ARG0><SIG0>resulting in</SIG0> significant damage to homes and infrastructure</ARG0>.'
+"""<ARG0>A strong earthquake struck the city, causing widespread panic and destruction</ARG0> <SIG0>which led to</SIG0> <ARG1>mass evacuations and extensive damage to buildings</ARG1>."""
+'<ARG0>Due to the heavy rainfall</ARG0> <SIG0>the river overflowed</SIG0> <ARG1>and caused severe flooding in the town.</ARG1>'
+'<ARG1>The heavy rainfall <SIG0>caused severe flooding</SIG0> <ARG0>in the coastal region</ARG0>.</ARG1>'
+"'<ARG0>The car ran out of gas</ARG0> <SIG0>which led to</SIG0> <ARG1>us being stuck on the side of the road</ARG1>, waiting for help to arrive."""
+'<ARG1>The car crashed into a tree</ARG1> <ARG0><SIG0>because</SIG0> the driver was distracted by their phone</ARG0> .'
+"'Drought Conditions lead to Increased Water Scarcity 12th July 2022 09:10 AM MUMBAI: <ARG1>The prolonged dry spell and lack of rainfall</ARG1>, <SIG0.resulting in</SIG0> <ARG0>drought</ARG0>, <SIG0.have led to</SIG0> <ARG1>a significant increase in water scarcity</ARG1>.'"
+'It is believed that <ARG0>neglect</ARG0> <SIG0>led to</SIG0> <ARG1>the decline in production</ARG1>.'
+'The heavy rain caused <ARG1>the river to overflow</ARG1> <SIG0>resulting in</SIG0> <ARG0>widespread flooding in the area</ARG0>.'
+"'<ARG1>The increased pollution levels in the city have led to a rise in respiratory diseases</ARG1> , <SIG0>resulting in</SIG0> <ARG0)a surge in hospital admissions for respiratory complications and an overall decline in public health</ARG0> .'"
+"'\x92 - The new education policy aims to improve the quality of education in schools by implementing various reforms. However, <SIG0>despite</SIG0> <ARG0>increased funding and teacher training programs</ARG0>, <ARG1>student performance has not shown significant improvement</ARG1>.'"
+"'According to witnesses, <ARG1>the car crashed into a tree</ARG1> because <ARG0>the driver lost control of the vehicle</ARG0> <SIG0>while texting and driving</SIG0>.'"
+"'<ARG0><SIG0>Protesting</SIG0> the government's decision</ARG0> , <ARG1>thousands of citizens took to the streets in a peaceful demonstration</ARG1>.'"
+"'<ARG1>The student's grades plummeted</ARG1> <SIG0>after</SIG0> <ARG0>she stopped studying regularly</ARG0> , her teachers warned.'"
+"""<ARG1>Students protested outside the university administration building</ARG1> <ARG0>demanding better campus security measures</ARG0> <SIG0>following a recent string of incidents</SIG0>."""
+"""Furthermore, <ARG1>student organizations intensified their campaign across the country, particularly targeting universities with high tuition fees</ARG1>, <ARG0><SIG0>to</SIG0> demand affordable education for all</ARG0>."""
+<ARG0>The heavy rain and strong winds</ARG0> caused <SIG0>several trees to fall down</SIG0> in the neighborhood.
+'<ARG1>Rainy Weather</ARG1> <SIG0>causes</SIG0> <ARG0>the cancellation of outdoor events</ARG0>'
+"'<ARG1>Heavy rain and strong winds swept through the area on Monday</ARG1> <SIG0,resulting in</SIG0> <ARG0>widespread power outages</ARG0>.'"
+'<ARG1>The increase in gas prices</ARG1> <ARG0><SIG0>led to</SIG0> protests and strikes across the country</ARG0>.'
+"The rain <ARG1>washed away all the fresh paint</ARG1> <SIG0,resulting in</SIG0> <ARG0>the cancellation of the outdoor event</ARG0>."
+"'Organizing <ARG1>a strike</ARG1> <ARG0><SIG0>to demand better working conditions</SIG0> , the workers united and demanded changes from their employers.'"
+"<ARG1>The heavy rain and strong winds</ARG1> <ARG0><SIG0>caused several trees to fall</SIG0> , blocking the road for hours."
+'<ARG1>The COVID-19 pandemic had a severe impact on the global economy</ARG1> <SIG0>as</SIG0> <ARG0>countries implemented lockdown measures and businesses were forced to shut down</ARG0>.'
+"'PROTEST: Demanding higher wages, factory workers in Chennai went on strike March 12, 2022 10:00 AM IST A group of <ARG1>employees gathered outside the factory gates</ARG1> <ARG0><SIG0>demanding</SIG0> a pay raise from the management</ARG0>.'"
+'Increasing the minimum wage <ARG0>has the potential to improve the living conditions of low-income workers</ARG0> <ARG1><SIG0>by providing them with better financial stability</SIG0></ARG1>.'
+"India's economic growth rate has significantly increased <ARG1>due to the implementation of various reforms and policies by the government</ARG1> , <ARG0><SIG0>resulting in</SIG0> a boost in foreign investments and job creation</ARG0> ."
+'The company implemented new safety protocols <ARG0><SIG0>to</SIG0> prevent accidents and ensure employee well-being</ARG0> <ARG1>resulting in a significant decrease in workplace injuries</ARG1>.'
+'Jones explained that <ARG1>he quit his job abruptly</ARG1> <SIG0>because</SIG0> <ARG0>his boss was constantly disrespectful and demeaning</ARG0> .'
+'<ARG1>New Study Reveals Link Between Smoking and Lung Cancer</ARG1> <SIG0>as</SIG0> <ARG0>Health Organizations Increase Anti-Smoking Campaigns</ARG0>'
+"'10th April 2022 09:23 AM LONDON: <SIG0>After</SIG0> <ARG0>the heavy rainfall and flooding in the area</ARG0>, <ARG1>the local government has declared a state of emergency and initiated evacuation procedures for affected residents</ARG1>.'"
+'Finance Minister John Smith stated <ARG1>the budget deficit will decrease</ARG1> <SIG0>because</SIG0> <ARG0>the government has implemented strict spending measures</ARG0>.'
+"'<ARG0><SIG0>Due to</SIG0> heavy rainfall</ARG0>, <ARG1>the river flooded and caused widespread damage to the surrounding area.</ARG1>'"
+'<ARG0>The increasing pollution levels in the city</ARG0> <SIG0>have led to</SIG0> <ARG1>a rise in respiratory illnesses among the residents</ARG1>.'
+'<ARG1>The company's profits plummeted</ARG1> after <SIG0>the CEO was caught embezzling funds</SIG0>.'
+'<ARG0>Heavy rainfall</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding</ARG1> in the city.'
+"In <ARG1>order to understand the impact of climate change</ARG1> <ARG0><SIG0>and to</SIG0> develop effective mitigation strategies</ARG0>, scientists are conducting extensive research and collecting data from various sources."
+The company decided <ARG1>to increase its advertising budget</ARG1> <ARG0><SIG0>in order</SIG0> to attract more customers.</ARG0>
+"""June 8, 2021: <ARG1>Heavy rainfall causes severe flooding and landslides</ARG1> in the coastal town when <ARG0>the river overflows its banks</ARG0> ."
+"'By <ARG0>disclosing confidential information</ARG0>, <ARG1>the employee put the company at risk of a data breach and legal consequences</ARG1>, leading to a potential loss of trust from clients and stakeholders, "" the CEO expressed concern."""
+"'<ARG1>The students organized a peaceful march through the city <SIG0>to</SIG0> demand stricter gun control laws</ARG1> <ARG0>as a response to the recent school shooting in their community</ARG0>, according to local news reports.'"
+'The decline in global oil prices <ARG0><SIG0>resulted in</SIG0> decreased revenue for oil-producing countries</ARG0> <ARG1>leading to budget cuts and economic instability.</ARG1>'
+"'<ARG1>The company's stock price has plummeted</ARG1> <SIG0>due to</SIG0> <ARG0>a decline in sales and negative investor sentiment</ARG0> , according to financial reports.'"
+"'The heavy rain caused flooding in the city, <SIG0>resulting in</SIG0> <ARG1>widespread damage</ARG1> <ARG0>to buildings and infrastructure</ARG0>.'"
+'<ARG1> The car broke down</ARG1> <SIG0> due to</SIG0> <ARG0> lack of maintenance</ARG0> .'
+'Heavy rains led to flooding in the city <SIG0>causing</SIG0> <ARG0>widespread damage to buildings and infrastructure</ARG0> <ARG1>resulting in the evacuation of residents.</ARG1>'
+"""<ARG0>Due to the lack of proper safety measures</ARG0> , <ARG1>there have been multiple accidents in the workplace.</ARG1> </SIG0>"""
+"'<SIG0>Due to heavy rainfall</SIG0>, <ARG0>the roads were flooded</ARG0> and <ARG1>traffic came to a standstill</ARG1>.'"
+"Meanwhile, to tackle the increasing pollution levels, <ARG1>the government has implemented stricter regulations</ARG1> <ARG0><SIG0>aiming to reduce emissions from factories</SIG0>.</ARG0>"
+'The festival is canceled <SIG0>due to</SIG0> <ARG0>heavy rain</ARG0> leading to a low turnout <ARG1>of attendees</ARG1>.'
+"'<SIG0>Due to</SIG0> <ARG0>the heavy rainstorm</ARG0>, <ARG1>the streets were flooded with water</ARG1>.'"
+'The company decided <ARG1>to invest in new technology</ARG1> <ARG0>to improve efficiency</ARG0> <SIG0>and reduce operating costs</SIG0>.'
+'A significant rise in pollution levels <SIG0>due to industrial emissions</SIG0> has led to <ARG1>a sharp increase in respiratory diseases</ARG1> <ARG0>among the local residents</ARG0>.'
+'<ARG1>Students protest against tuition fee hike</ARG1> <SIG0>because of</SIG0> <ARG0>unaffordable education costs</ARG0>'
+'<ARG1>The store ran out of milk and bread</ARG1> because <SIG0>there was a snowstorm that prevented deliveries</SIG0>.'
+"<ARG0>Due to heavy rain and strong winds</ARG0>, <ARG1>the trees in the park were uprooted and fell on several cars</ARG1>.'"
+'Many students are struggling with anxiety and depression <SIG0>due to</SIG0> <ARG0>the pressure from exams and academic workload</ARG0>.'
+'<ARG1>The students organized a rally</ARG1> <SIG0>to demand better education</SIG0>.'
+"'After uncovering evidence of corruption within the company, the CEO <ARG0>decided to fire several top executives</ARG0> <SIG0>in order to restore trust and improve the company's reputation</SIG0> <ARG1>.'"
+'Making rude remarks: <ARG1>1 student faces disciplinary action</ARG1> <SIG0>for</SIG0> <ARG0>insulting a teacher</ARG0>'
+"'<ARG1>The students organized a protest , <SIG0>in order to</SIG0> demand better school facilities</ARG1> <ARG0>which resulted in the school administration addressing their concerns</ARG0> .'"
+"""EXTREME WEATHER - CNN Mon Jul 15th 2019 , 09:30 hrs <ARG1>The devastating hurricane caused widespread destruction in the coastal town</ARG1> : <ARG0>resulting in the displacement of thousands of residents and extensive damage to infrastructure</ARG0> ."""
+'<ARG1>The heavy rain and strong winds</ARG1> <SIG0>caused</SIG0> <ARG0>widespread power outages and flooding</ARG0> in the city.'
+June 30: <ARG1>Several people were injured in a car accident</ARG1> when <ARG0>a driver ran a red light at a busy intersection</ARG0> <SIG0>causing a collision with another vehicle</SIG0>.
+'July 15 : <ARG1>The heavy rainfall caused severe flooding in the town</ARG1> <SIG0>due to</SIG0> <ARG0>poor drainage system</ARG0> .'
+'A small disagreement between neighbors at a block party <ARG0>caused tensions to rise</ARG0> <SIG0>resulting in</SIG0> <ARG1>a heated argument that escalated into physical altercations</ARG1>.'
+"June 15: <ARG1>The heavy rainfall flooded the streets</ARG1> in <ARG0>the city, causing major traffic disruptions.</ARG0>"
+"August 27: <ARG1>Heavy rainfall and flooding</ARG1> caused <ARG0>widespread damage to infrastructure, houses, and crops</ARG0> in <SIG0>several districts of Kerala</SIG0>."
+May 15: <ARG1>A train derailed and several people were injured</ARG1> when <ARG0>heavy rains caused a landslide on the tracks</ARG0> .
+<ARG0>The excessive rain</ARG0> <SIG0>caused</SIG0> <ARG1>the crops to flood and be destroyed</ARG1>.
+"""October 12 : <ARG1>The heavy rain caused severe flooding</ARG1> , <ARG0><SIG0>destroying</SIG0> homes and displacing thousands of people</ARG0> ."""
+"June 12 : <ARG1>A massive earthquake struck</ARG1> in <ARG0>the coastal city of San Francisco, California</ARG0> <SIG0>resulting in widespread destruction and loss of life</SIG0> ."
+"The heavy rainfall caused the river to overflow, resulting in widespread flooding in the nearby towns and villages, where <ARG1>many houses were destroyed</ARG1> <ARG0><SIG0>due to the excessive water flow</SIG0>.</ARG0>"
+"<SIG0>Due to heavy rain</SIG0>, <ARG0>the outdoor concert was canceled</ARG0>, <ARG1>and the attendees were refunded their ticket fees</ARG1>."
+"""Strong winds at the beach caused many people to stay indoors <ARG0><SIG0>during</SIG0> the storm</ARG0> <ARG1>as they feared for their safety</ARG1>."""
+'<ARG0>A disagreement over finances</ARG0> <SIG0>led to</SIG0> <ARG1>a heated argument between the business partners</ARG1>.'
+"'Due to the rising crime rates in the city, <ARG0> concerned citizens </ARG0> <SIG0> have taken matters into their own hands </SIG0> <ARG1> by forming neighborhood watch groups </ARG1>.'"
+'<ARG1>The students protested outside the school gates and refused to enter the classrooms</ARG1> <ARG0><SIG0>in order</SIG0> to express their dissatisfaction with the new grading system</ARG0>.'
+"""<ARG0>The increase in unemployment rates</ARG0> <SIG0>has led to</SIG0> <ARG1>a rise in crime rates</ARG1>."""
+The heavy rain led to flooding in the city <ARG1>which caused several roads to be impassable</ARG1> <SIG0>due to the excessive water levels</SIG0>.
+"'After finishing their dinner, the children <ARG0>cleaned up the kitchen</ARG0> <ARG1><SIG0>by washing the dishes</SIG0></ARG1>.'"
+"'During the heavy rainfall last night, <ARG0>the basement of the building flooded</ARG0> <ARG1>causing extensive water damage to the property</ARG1> <SIG0>as the drainage system failed to handle the excess water.</SIG0>'"
+"'Sarah mentioned that <ARG1>the heavy rain caused severe flooding in the town, damaging several houses and roads</ARG1>, <ARG0>which led to the evacuation of the affected residents</ARG0>.'"
+'<ARG1>The company's profits soared</ARG1> <SIG0>due to</SIG0> <ARG0>the successful launch of their new product</ARG0>.'
+'<ARG1>Many people attended the conference</ARG1> <ARG0><SIG0>in order to</SIG0> learn about new technological advancements in the industry</ARG0>.'
+"'<ARG1>The heavy rainfall in the area, accompanied by strong winds and thunderstorms, <SIG0>caused</SIG0> widespread flooding and property damage <SIG1>in the neighborhood.</ARG1></SIG1> <ARG0>The lack of proper drainage systems</ARG0>.'"
+'<ARG1>The company's profits</ARG1> <ARG0><SIG0>increased</SIG0> significantly after implementing a new marketing strategy</ARG0>.'
+"<ARG1>The heavy rain caused the roads to flood</ARG1> <SIG0>resulting in <ARG0>traffic jams</SIG0> in the city, causing delays for commuters.</ARG0>'"
+"'On a rainy day, <ARG0>due to the heavy downpour and inadequate drainage</ARG0>, <ARG1>the streets of the city were flooded</ARG1> <SIG0>causing chaos and traffic congestion</SIG0>.'"
+'<ARG1>Environment Deteriorates</ARG1> <SIG0>due to</SIG0> <ARG0>Increased Pollution Levels</ARG0>'
+'<ARG1>The sales of the new product skyrocketed</ARG1> <SIG0>after</SIG0> <ARG0>the company launched a successful marketing campaign</ARG0>.'
+"'<SIG0>Despite the protests from environmental groups </SIG0>, <ARG0>the government decided to proceed with the construction of the new highway</ARG0>, <ARG1>ignoring the potential impact on local wildlife and ecosystems</ARG1>.'"
+"'Last week, during the heavy rainstorm, <ARG0>the power lines were knocked down by strong winds</ARG0>, <ARG1>leaving the neighborhood without electricity for hours</ARG1>.'"
+'After the heavy rainfalls <ARG0>were not adequately drained</ARG0> <SIG0>because</SIG0> <ARG1>the streets were flooded</ARG1>.'
+"'After the heavy rainstorm, <ARG0>the streets were flooded</ARG0> and <ARG1>people had to find alternate routes</ARG1> <SIG0>to reach their destinations</SIG0>.'"
+'Students Protest Increase in Tuition Fees Last Thursday 2:30 PM COLLEGEVILLE: <ARG1>Students at Collegeville University organized a protest last Thursday to express their dissatisfaction with the increase in tuition fees</ARG1> <ARG0><SIG0>in order</SIG0> to demand a meeting with the administration</ARG0>.'
+'There was <SIG0>suspicion that</SIG0> <ARG1>the heavy rain and strong winds</ARG1> <ARG0>caused the tree to fall</ARG0>.
+'<ARG0>The heavy rainfall</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding in the city.</ARG1>'
+"'While preparing for the exam, <ARG0>I studied late into the night</ARG0> <SIG0>and ended up feeling exhausted the next day</SIG0>.'"
+'<ARG1>The delivery was delayed</ARG1> <SIG0>because</SIG0> <ARG0>the truck broke down</ARG0>.'
+"'The company's profits have drastically declined, and as a result, <ARG0>management has decided to implement budget cuts</ARG0> <SIG0>in order to reduce expenses</SIG0> <ARG1>and avoid potential layoffs</ARG1>.'"
+"<SIG0>Heavy rain poured down</SIG0> and <ARG0>the streets flooded</ARG0> , causing <ARG1>several cars to get stuck in the water.</ARG1>"
+"'MUMBAI Heavy rainfall total in city September 5, 2020 08:00 IST TRAFFIC STANDSTILL : <ARG1>Motorists faced long delays</ARG1> due to <ARG0>the heavy rainfall in the city on Saturday</ARG0>.'"
+'The increase in carbon emissions <ARG0>due to the rise in industrial activity</ARG0> has <SIG0>resulted in</SIG0> <ARG1>a significant decrease in air quality</ARG1>.'
+'<ARG1>Many students</ARG1> <ARG0><SIG0>protest due to</SIG0> the increase in tuition fees.</ARG0> '
+"'However, <ARG0>the government's failure to address the rising unemployment rate and provide necessary job opportunities</ARG0>, <ARG1><SIG0>has resulted in widespread economic instability</SIG0></ARG1>.'"
+<ARG0>The increasing pollution in the city</ARG0> <SIG0>is leading to</SIG0> <ARG1>the rise in respiratory diseases among the population</ARG1>.
+'<ARG1>The teacher praised the student</ARG1> <ARG0>who scored the highest marks in the class</ARG0> <SIG0>during the final exams.</SIG0>'
+"'<ARG0>When there is heavy rain</ARG0>, <SIG0>the streets become flooded</SIG0>.'"
+'<ARG0>The student failed the exam</ARG0> Because <SIG0>he did not study</SIG0> <ARG1>he did not prepare adequately for it</ARG1>'
+"'John, together with his colleagues Sarah and Michael, went to the city council meeting yesterday and <ARG1>proposed a new policy for environmental sustainability</ARG1> <ARG0><SIG0>urging</SIG0> the council members to take action against pollution</ARG0>.'"
+"As the storm raged on, <ARG0>a tree outside the house was struck by lightning</ARG0>, <ARG1,result>The tree caught fire</ARG1,result><SIG0,result>immediately engulfing the surrounding area in flames</SIG0,result>."
+"After receiving multiple complaints, <ARG1>the Landlord Association </ARG1><SIG0>imposed stricter regulations and penalties</SIG0> to maintain better living conditions in the apartments."
+"'<ARG0><SIG0>Not wanting to miss her flight</SIG0>, <ARG1>she hurried to the airport</ARG1>.'"
+'<ARG1>Car accidents increase</ARG1> <SIG0>when <ARG0>people drive under the influence of alcohol</ARG0></SIG0>.'
+"""John's failure to study for the exam resulted in <ARG1>him receiving a low grade</ARG1> <SIG0>since</SIG0> <ARG0>he didn't put in the necessary effort</ARG0> ."""
+"'“ <ARG1>She studied tirelessly</ARG1> <SIG0>until</SIG0> <ARG0>she aced the exam</ARG0>,” her proud parents exclaimed after receiving her perfect score.'"
+"'According to recent surveys, <ARG1>the increase in pollution levels</ARG1> <SIG0>indicates that</SIG0> <ARG0>we need to take immediate action</ARG0>.'"
+'<ARG0>A String of Burglaries</ARG0> <ARG1><SIG0>Has Put</SIG0> the Neighborhood on Edge</ARG1>'
+"""<ARG1>Protests intensified in the city</ARG1> <SIG0>due to</SIG0> <ARG0>a controversial decision made by the local government</ARG0> , according to local news reports."""
+"""For failing to submit the project on time, the student was given an F by the professor."""
+"""Additionally, <ARG1>a significant increase in pollution levels</ARG1> <SIG0>caused</SIG0> <ARG0>a rise in respiratory problems among the local residents</ARG0>."""
+"""<ARG1>The car crashed</ARG1> <SIG0>due to the driver's reckless driving</SIG0>."""
+"'SALEM : Students protest for improved school facilities , organize rally March 12 , 2021 10:00 IST <ARG0><SIG0>Campaigning</SIG0> for better-equipped classrooms , library resources, and extracurricular activities</ARG0> , <ARG1>students from various schools in the city organized a rally in front of the education department office</ARG1> .'"
+"'<ARG1>After taking a few days off work</ARG1> <ARG0><SIG0>to relax and recharge</SIG0>, I felt refreshed and ready to tackle my projects with renewed energy.</ARG0>'"
+"""Local businesses experienced a decline in sales <ARG1>due to the economic recession</ARG1> , <SIG0>resulting in</SIG0> <ARG0>layoffs and budget cuts</ARG0>."""
+"In recent years, the increase in global temperatures has caused <ARG1>glaciers to melt at an alarming rate</ARG1> <ARG0><SIG0>leading to</SIG0> rising sea levels and catastrophic flooding in coastal areas</ARG0>."
+"'After the heavy rainstorm, <ARG0>the roof of the house caved in</ARG0> <SIG0,resulting in</SIG0> <ARG1>widespread damage to the interior</ARG1>.'"
+"In response to the recent increase in cyberattacks, the company's IT department <ARG1>has implemented stricter security measures</ARG1> <ARG0><SIG0>to protect sensitive data</SIG0>.</ARG0>"
+The budget cuts led to a decrease in funding for education <ARG0><SIG0>resulting in a decline</SIG0> in the quality of schools</ARG0> and a lack of resources for students.
+"""<ARG0>The heavy rain caused widespread flooding in the city</ARG0> , <ARG1><SIG1>forcing</SIG1> residents to evacuate their homes and <SIG0>damaging</SIG0> many buildings</ARG1> according to local authorities."""
+"'<ARG0><SIG0>To avoid high medical costs</SIG0></ARG0> , many people opt for health insurance coverage.'"
+'<ARG1>The company's profits skyrocketed</ARG1> when <ARG0>they implemented a new marketing strategy</ARG0> .'
+"'<ARG0><SIG0>Due to heavy rains and flooding</SIG0>, <ARG1>the city's infrastructure was severely damaged</ARG1>.'"
+'<ARG1>Prices of goods increased</ARG1> <SIG0>due to inflation</SIG0> <ARG0>caused by government policies</ARG0>'
+'Environmental activist Greta Thunberg argued that the Fridays for Future movement is an impactful demonstration of <ARG1>youth demanding climate action</ARG1> <ARG0>in response to the urgent need for environmental protection</ARG0>.'
+"'<ARG0>The implementation of strict gun control laws</ARG0> <SIG0>will <ARG1>reduce</SIG0> gun violence in our communities</ARG1> , according to the latest research.'"
+"""<ARG1>The heavy rain caused flooding </ARG1>, <ARG0>people had to be evacuated</ARG0>, <SIG0>due to the rising water levels</SIG0>."""
+"'<ARG1>Increase in greenhouse gas emissions from human activities</ARG1>, <ARG0><SIG0>leads to</SIG0> global warming</ARG0>.'"
+<ARG1>Heavy rain</ARG1> <SIG0>caused</SIG0> <ARG0>floods</ARG0>
+"'After losing the election, the candidate decided to <ARG0>change his campaign strategy</ARG0> <SIG0>in order to</SIG0> <ARG1>increase his chances of winning in the next election.</ARG1>'"
+'<ARG1>This</ARG1> happened <ARG0><SIG0>as a result of</SIG0> poor planning and execution</ARG0>.'
+""" <ARG0>The heavy rain</ARG0> <SIG0>caused</SIG0> <ARG1>flooding in the city</ARG1> ."""
+'<ARG1>His</ARG1> <SIG0>decision <ARG0>to</SIG0> quit his job</ARG0> resulted in financial difficulties.</SIG0>
+'<SIG1>The main reason for</SIG1> <ARG1>the increase in pollution</ARG1> <SIG0>was a lack of proper waste management</SIG0>.'
+'Heavy rainfall : flooding in the city - Local news reports indicate that <ARG0>the heavy rainfall</ARG0> has resulted in <ARG1>widespread flooding</ARG1> throughout the city.'
+"'After the heavy rainstorm, <ARG0>the ground became slippery</ARG0> and <ARG1>several people slipped and fell</ARG1> <SIG0>due to the wet surface</SIG0>.'"
+'<ARG1>The students were expelled from school</ARG1> because <ARG0>they were caught cheating on the exam</ARG0>.'
+"'<ARG0>A sudden rainstorm flooded the streets</ARG0> , causing <ARG1>cars to hydroplane and accidents to occur</ARG1>.'"
+'<ARG1>The roads became extremely slippery</ARG1> as <ARG0>the snow started to fall heavily</ARG0>.'
+"""`` <SIG0>The delay in receiving the memorandum led to</SIG0> <ARG1>an escalation of tensions</ARG1> as <ARG0>the community felt unheard</ARG0> . ''"""
+"""`` <ARG1>The students organized a protest</ARG1> <ARG0><SIG0>in order to</SIG0> demand better education facilities</ARG0> , '' the school principal announced to the media."""
+'<ARG1>The company's profits plummeted </ARG1> <ARG0><SIG0>due to</SIG0> poor management and a decline in consumer demand</ARG0>.'
+'<ARG1>After failing to secure funding for their project</ARG1> <ARG0>the researchers <SIG0>decided</SIG0> to seek alternative sources of funding</ARG0>.'
+'The company <ARG1>decreased its prices</ARG1> <SIG0>since</SIG0> <ARG0>they wanted to attract more customers</ARG0>.'
+'<ARG1>Climate change</ARG1> <SIG0>can lead to</SIG0> <ARG0>increased natural disasters</ARG0>'
+""": According to the latest scientific research, excessive sugar consumption <ARG0>can lead to</SIG0> various health problems </ARG0> <SIG0>resulting in <ARG1>weight gain and an increased risk of developing chronic diseases</ARG1>."""
+'<ARG1>The heavy rain</ARG1> caused <SIG0>the roads to become flooded</SIG0> .'
+"'Following the increasing number of accidents in the area, <ARG1>a local residents' association</ARG1> <ARG0><SIG0>held a meeting with the local government</SIG0> to discuss potential solutions</ARG0>.'"
+'<ARG0>The earthquake</ARG0> <SIG0>led to</SIG0> <ARG1>widespread destruction and loss of lives in the affected areas</ARG1> .'
+'<ARG1>The students' proficiency in math has significantly improved</ARG1> <SIG0>since</SIG0> <ARG0>they started attending specialized tutoring sessions</ARG0>.'
+"'PROTEST Protesters demand higher wages March 12, 2021 08:00 AM Reporter NEW YORK: <ARG1>Workers in front of a major fast food chain picketed yesterday</ARG1> <ARG0><SIG0>in order to demand higher wages and better working conditions</ARG0>.'"
+"After the car accident, eyewitnesses reported that the <ARG1>victims were rushed to the hospital</ARG1> because of <ARG0>severe injuries sustained in the collision</ARG0> <SIG0>and the necessity for immediate medical attention</SIG0>."
+'Unemployment Rate Drops 07th February 2022 10:30 AM WASHINGTON : <ARG1>The unemployment rate dropped to its lowest level in years</ARG1> <SIG0>after</SIG0> <ARG0>a surge in job creation and economic growth</ARG0>.'
+"""During a heated argument with his neighbor, <ARG1>John lost his temper</ARG1> <ARG0><SIG0>resulting in a physical altercation</SIG0>.</ARG0>"""
+'* The heavy rainstorm on Friday <ARG0>caused severe flooding in the area</ARG0> <SIG0>leading to</SIG0> <ARG1>widespread damage to homes and infrastructure</ARG1>.'
+"'<ARG0>Due to excessive rain</ARG0> , <SIG0>the soccer match got canceled</SIG0> .'"
+<SIG0>Due to</SIG0> <ARG0>his hard work</ARG0> <ARG1>he achieved great success in his career.</ARG1>
+"'The students <ARG1>organized a rally</ARG1> <ARG0>to demand better education facilities, such as updated textbooks and improved infrastructure</ARG0> <SIG0>in response to the declining standards in their school</SIG0>.'"
+"'12th December 2020 09:45 AM LONDON : Despite the efforts to contain the spread of the virus, <ARG0>a new variant of the coronavirus emerged in the United Kingdom</ARG0> leading to <ARG1>a surge in COVID-19 cases across the country</ARG1> as <SIG0>healthcare systems struggled to cope with the influx of patients</SIG0>.'"
+"<ARG0>Due to heavy rain and flooding in the area</ARG0>, <SIG0>the residents were forced to evacuate their homes</SIG0> <ARG1>for their own safety</ARG1>."
+"'Thanks to the rainy weather, <ARG1>the streets were flooded</ARG1> <SIG0>causing</SIG0> <ARG0>traffic delays</ARG0>.'"
+"'Unfair treatment in the workplace leads to employee resignation Posted : Mon Oct 18 2021 IST NEW YORK, October 17 : <ARG1>Several employees have recently resigned from the company</ARG1> <SIG0>due to</SIG0> <ARG0>experiencing unfair treatment and discrimination</ARG0>.'"
+"""<ARG1>A student failed his final exams</ARG1> <SIG0>due to the fact that</SIG0> <ARG0>he spent most of his time playing video games instead of studying</ARG0>."""
+"'<ARG0>The heavy rain</ARG0> <SIG0>resulted in</SIG0> <ARG1>widespread flooding in the city, causing significant damage to homes and infrastructure.</ARG1>'"
+"'After the rainstorm, <ARG1>the streets flooded</ARG1> <SIG0>causing</SIG0> <ARG0>traffic congestion and delays for hours</ARG0>.'"
+"'After discovering that her car had been stolen, Sarah reported the incident to the police <SIG0>in order to file a complaint</SIG0> and <ARG1>she hoped they would be able to recover her vehicle</ARG1> <ARG0>as soon as possible</ARG0>.'"
+"'<ARG0>As the storm intensified</ARG0>, <SIG0>consequently</SIG0> <ARG1>the streets were flooded and houses were damaged</ARG1>.'"
+"During the protest, <ARG1>the crowd</ARG1> <ARG0><SIG0>was incited by</SIG0> anger towards the government's policies and <SIG1>wanted to</SIG1> demand justice and accountability</ARG0> ."
+'<ARG1>The increase in pollution levels in the city</ARG1> <SIG0>has been caused</SIG0> <ARG0>by the excessive use of vehicles and lack of green spaces.</ARG0>'
+"""<ARG1>She failed the exam</ARG1> <ARG0><SIG0>only because</SIG0> she didn't study enough</ARG0> ."""
+'She started <ARG1>working out regularly at the gym</ARG1> <ARG0><SIG0>to improve her overall health and fitness</SIG0>.</ARG0>'
+'WASHINGTON: <ARG1>Economy shows signs of improvement</ARG1> <SIG0>as</SIG0> <ARG0>government boosts spending</ARG0>'
+"'<ARG1>The government implemented strict lockdown measures</ARG1> <ARG0><SIG0>in order to</SIG0> prevent the spread of COVID-19</ARG0>, resulting in a significant decrease in the number of cases.'"
+"'‘Increasing unemployment rates’ Highlighting the alarming statistics released by the government, the report states that <ARG1>the lack of job opportunities</ARG1> <ARG0><SIG0>contributed to</SIG0> the increasing unemployment rates.</ARG0>"
+"'<ARG1>The recent price increase led to a decrease in sales</ARG1> , <SIG0>resulting in</SIG0> <ARG0>a drop in revenue for the company</ARG0> .'"
+"""After the heavy rainfall, <ARG0>the river overflowed its banks</ARG0>, <SIG0>resulting in</SIG0> <ARG1>widespread flooding in the nearby towns</ARG1>."""
+"'<ARG1>The government implemented strict lockdown measures</ARG1> , <ARG0><SIG0>resulting in</SIG0> a decrease in COVID-19 cases</ARG0>.'"
+'<ARG1>People were upset</ARG1> <ARG0>because their flight was delayed for several hours</ARG0> <SIG0>due to severe weather conditions</SIG0>.'
+'<ARG1>The employees went on strike</ARG1> <ARG0><SIG0>protesting</SIG0> unfair working conditions</ARG0> which would be brought to the attention of the management and labor unions.'
+'<ARG1>The new policy increased customer satisfaction</ARG1> <SIG0>by</SIG0> <ARG0>implementing faster response times</ARG0> .'
+"'In order to prevent any further accidents, <ARG1>the authorities decided to implement stricter safety regulations</ARG1> <ARG0><SIG0>in all construction sites</SIG0>.</ARG0>'"
+"'Heavy rain <SIG0>caused by</SIG0> <ARG0>the approaching storm</ARG0> <ARG1>flooded the streets of the city, leading to massive traffic jams.</ARG1>'"
+'<ARG0>The students organized a strike</ARG0> <SIG0>in protest of the unfair grading system</SIG0> <ARG1>resulting in the cancellation of all exams for the semester</ARG1>'
+'<ARG1>The stock market crashed</ARG1> because <ARG0>the economy was in a recession</ARG0> <SIG0>and investors started panic selling</SIG0>.'
+"'Today, students at the university marched in solidarity with the faculty <ARG1>to demand fair wages and better working conditions</ARG1> <ARG0><SIG0>in response</SIG0> to the administration's refusal to negotiate a new labor contract</ARG0>.'"
+"Residents of Virupatchipuram, of ward 41 of Vellore Corporation, filed a complaint against a woman sub-inspector (SI) attached to the Bagayam police station, leading to an investigation into the matter. <SIG0>As a result</SIG0>, tensions escalated in the area, causing unrest among the local community."
+"After receiving numerous complaints, <ARG0> the city council implemented new parking regulations</ARG0> <SIG0> to reduce congestion and improve traffic flow</SIG0>. <ARG1> As a result, the number of parking violations decreased significantly</ARG1>."
+"'<ARG1>The increase in global temperatures has led to the melting of polar ice caps</ARG1> , resulting in the rise in sea levels and the endangerment of coastal communities</ARG0> .'"
+"'PEOPLE : Number of homeless individuals rises in urban areas due to lack of affordable housing November 10, 2021 12:00 PM EST Government fails to address the issue effectively <ARG1>The number of homeless individuals living in urban areas has been steadily increasing</ARG1> due to <ARG0>a lack of affordable housing options</ARG0> ."
+'A family decided to renovate their kitchen while <ARG1>the neighbors complained about the noise</ARG1> <SIG0>because</SIG0> <ARG0>they wanted a modern and functional space</ARG0>.'
+"'Although <ARG1>Sheila failed her driving test</ARG1> <SIG0>due to</SIG0> <ARG0>not practicing enough</ARG0>, she remained determined to improve her skills.'"
+'MUMBAI : <ARG0>Heavy rainfall</ARG0> <SIG0>leads to</SIG0> <ARG1>widespread flooding in the city</ARG1>'
+'<ARG1>The company's profits have been declining steadily</ARG1> <ARG0><SIG0>due to</SIG0> increased competition and changing market trends</ARG0> .'
+"'Although it was raining heavily, <ARG1>the picnic participants decided to continue enjoying their day</ARG1> <SIG0>because</SIG0> <ARG0>the weather forecast had predicted clear skies earlier</ARG0>.'"
+"'<ARG1>Matt studied diligently</ARG1> <SIG0>in order <ARG0>to</SIG0> pass the exam</ARG0> , but he still failed.'"
+"""Refusing <SIG0>to accept</SIG0> <ARG0>the proposed budget cuts</ARG0>, <ARG1>the university faculty went on strike, demanding increased funding for education.</ARG1>"""
+"'LOCAL RESIDENTS protest against new housing development November 12, 2021 15:30 EST OAKVILLE: <ARG1>A group of local residents gathered in protest today against the construction of a new housing development on their street</ARG1> <ARG0><SIG0>expressing concerns</SIG0> over increased traffic and decreased green space</ARG0>.'"
+The company announced <ARG0>employees who arrived late</ARG0> <ARG1>would receive a warning</ARG1> and that their salaries would be docked.
+"""Recent studies <SIG0>showed</SIG0> that excessive consumption of sugary drinks <ARG0>contributes to weight gain and an increased risk of developing obesity-related health issues</ARG0> <ARG1>such as type 2 diabetes and heart disease</ARG1>."""
+'Protest against unfair treatment of workers <SIG0>leads to</SIG0> widespread strikes and demonstrations throughout the city.'
+"'<ARG1>The increase in unemployment rates</ARG1> <SIG0>resulted in</SIG0> <ARG0>a decrease in consumer spending</ARG0> , according to the latest economic report.'"
+'<ARG0>Rain</ARG0> <SIG0>caused</SIG0> <ARG1>the roads to flood.</ARG1>'
+'NEW DELHI : <ARG1>Fuel prices</ARG1> <SIG0>lead to</SIG0> <ARG0>increased transportation costs</ARG0> nationwide'
+"'April 10, 2021 09:00 AM PST Protests erupted in the city <ARG1>after a controversial decision was made by the government</ARG1>, <SIG0>resulting in</SIG0> <ARG0>angry citizens taking to the streets</ARG0>.'"
+"'‘Delay in payment’ The project manager, however, mentioned that <ARG1>the contractors would not start construction</ARG1> <SIG0>unless</SIG0> <ARG0>the client provided the necessary funds</ARG0>.'"
+'“ <ARG1>The company's profits have plummeted</ARG1> <SIG0>due to</SIG0> <ARG0>poor management decisions</ARG0> .'
+'<ARG1>The students will not receive a passing grade</ARG1> <SIG0>unless</SIG0> <ARG0>they study for the exam</ARG0> .'
+"During the press conference, when questioned about the delay in the project's completion, the CEO stated <ARG0>unforeseen circumstances had arisen</ARG0> <ARG1>which hindered progress</ARG1> <SIG0>despite the team's best efforts</SIG0>."
+"'After <ARG0>a heavy rainfall</ARG0>, <SIG0>the streets were flooded</SIG0> causing <ARG1>major traffic delays</ARG1>.'"
+"""Despite the heavy rainfall and flooding, <ARG0>the concert went on as planned</ARG0> <SIG0>because</SIG0> <ARG1>the organizers had prepared contingency measures</ARG1>."""
+'<ARG1>The company's stock price plummeted</ARG1> <ARG0><SIG0>after news broke that</SIG0> their CEO had been involved in a major scandal</ARG0> .'
+"""' Recently, the company has received a lot of negative feedback regarding their customer service quality. ' <ARG1>The company's reputation has been declining</ARG1> <SIG0>due to</SIG0> <ARG0>the long waiting times and unresponsive representatives</ARG0> ."""
+"Amateurs argue <ARG1>the debate </ARG1><SIG0>was largely influenced by </SIG0><ARG0>popular opinion, with critics again questioning the validity of their arguments </ARG0>."
+"'An Increase in Taxes 8th May 2021 02:30 PM WASHINGTON : <ARG0>If taxes are increased</ARG0>, <SIG0>it will lead to</SIG0> <ARG1>a decrease in consumer spending</ARG1>.'"
+"""PUBLISHED : Monday , 12 September , 2005 , 9:30am DUE TO <ARG0>the global economic recession</ARG0>, <ARG1>companies in the technology sector experienced a significant decline in sales and profitability</ARG1>, <SIG0>resulting in widespread layoffs and downsizing</SIG0>."""
+'<ARG0>The heavy rainstorms</ARG0> <ARG1><SIG0>caused</SIG0> widespread flooding in the city</ARG1>.'
+"""The company's decision to cut back on employee benefits has led to <ARG1>widespread dissatisfaction among the staff</ARG1> <SIG0>because</SIG0> <ARG0>the new policies greatly affect their work-life balance</ARG0>."""
+'Heavy rainfall and flooding: <ARG1>Evacuation efforts increase</ARG1> <SIG0>as a result of</SIG0> <ARG0>rising water levels</ARG0>'
+"""<ARG1>The increase in temperature in the greenhouse</ARG1> was due to <ARG0>a malfunction in the ventilation system</ARG0>, as indicated by the sudden rise in humidity levels <SIG0>and the wilting of the plants.</SIG0>"""
+"'The suspension of <ARG1>a local train service due to heavy rainfall</ARG1>, <ARG0><SIG0>resulted in</SIG0> the cancellation of several commuters' journeys.</ARG0>'"
+"""<ARG0>Due to excessive rainfall and poor drainage system</ARG0> <SIG0>the city streets</SIG0> <ARG1>flooded, causing widespread traffic congestion and inconvenience to the residents.</ARG1>"""
+'<ARG1>The declining sales</ARG1> <SIG0>are a result of</SIG0> <ARG0>the company's poor marketing strategy</ARG0>.'
+"'After experiencing a major earthquake that left the city in ruins, the government <ARG0>implemented strict building codes and regulations</ARG0> <ARG1><SIG0>to ensure the safety of its citizens in future disasters</SIG0>.</ARG1>'"
+"On Monday, <ARG1>hundreds of students gathered in front of the school entrance</ARG1> <ARG0><SIG0>to demand better cafeteria food</SIG0> ."
+"<SIG0>After studying hard for weeks and getting enough sleep every night, </SIG0><ARG0>I was able to perform well on the exam</ARG0>."
+"The students, after the announcement was made by the principal, decided to organize a protest and <ARG1>marched to the school board's office</ARG1> <ARG0><SIG0>in order to</SIG0> demand better resources and support for their education</ARG0>."
+"<ARG0>Many studies have shown that excessive alcohol consumption can have detrimental effects on health and well-being</ARG0> <SIG0>such as an increased risk of liver disease, heart problems, and mental health issues</SIG0> <ARG1>which is why it is important to practice moderation and make responsible choices when it comes to drinking</ARG1>."
+'<ARG0>The heavy rain</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding</ARG1>.'
+"'After learning about the importance of exercise, she <ARG0>started going to the gym regularly</ARG0> <SIG0>to improve her health</SIG0> <ARG1>and lost weight.</ARG1>'"
+"'After being reprimanded by his boss, <ARG1>John felt demoralized</ARG1> as <ARG0>he realized his hard work was not being recognized</ARG0> <SIG0>despite consistently meeting all his targets</SIG0>.'"
+'<ARG0>The heavy rainfall</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding in the city</ARG1>.'
+"<SIG0>After witnessing the crime</SIG0>, <ARG0>the bystander called the police</ARG0> because <ARG1>they saw the suspect fleeing the scene</ARG1>."
+"""Government budget cuts : Education sector suffers as schools struggle to hire qualified teachers <SIG0>due to</SIG0> <ARG0>reduced funding</ARG0> <ARG1>resulting in overcrowded classrooms</ARG1>."""
+"'The heavy rainfall in the city led to severe flooding <SIG0>which caused extensive damage to homes and infrastructure</SIG0>, displacing thousands of residents from their homes <SIG0>and resulting in significant financial losses for the community</SIG0>.'"
+"'<ARG1>The heavy rainfall caused severe flooding in the city , leading to the evacuation of thousands of residents</ARG1> , as <SIG0>emergency crews worked tirelessly to rescue stranded individuals</SIG0> <ARG0>from their homes</ARG0>.'"
+"'<ARG1>The company's profits skyrocketed</ARG1> <ARG0><SIG0>due to</SIG0> the successful implementation of cost-cutting measures</ARG0>, as the CEO announced record-breaking earnings during the annual shareholders meeting.'"
+"Police officer Mike Johnson of the local precinct said that, based on recent statistics, <ARG1>there has been a decrease in theft</ARG1> <SIG0>due to</SIG0> <ARG0>enhanced security measures implemented in the neighborhood</ARG0>, compared to previous years."
+'<ARG0>Heavy rain and flooding</ARG0> caused <ARG1>widespread damage</ARG1> to the city.'
+"""<ARG1>The company decided to implement stricter cybersecurity measures</ARG1> <SIG0>after experiencing a major data breach</SIG0>."""
+<ARG0><SIG0>His excessive drinking</SIG0></ARG0> <ARG1>led to his liver damage</ARG1>.
+"'The heavy rain caused flooding in the city streets, <SIG0>leading to severe traffic congestion</SIG0>.'"
+"""RAINFALL FORECAST: <ARG1>Local authorities have issued a flood warning</ARG1> as <ARG0>heavy rain is expected throughout the weekend</ARG0>."""
+'<ARG1>The company's stock price soared </ARG1> <ARG0><SIG0>after a positive earnings report</SIG0>.</ARG0>'
+'<ARG1>She didn't study for the exam</ARG1> <SIG0>so</SIG0> <ARG0>she failed</ARG0> .'
+"'<ARG1>Their grades dropped significantly</ARG1> , <ARG0><SIG0>due to</SIG0> their lack of studying</ARG0> .'"
+'<ARG1>The students boycotted classes</ARG1> <ARG0><SIG0>demanding that</SIG0> the university administration reduce tuition fees</ARG0>.'
+"'<ARG1> Crime rates skyrocketed in the neighborhood, particularly in the downtown area and surrounding streets</ARG1> <SIG0>due to</SIG0> <ARG0>the lack of police presence</ARG0>.'"
+"In response to the increasing demand for renewable energy, <ARG1>solar panel installations have seen a significant rise in the past decade</ARG1> <SIG0>due to</SIG0> <ARG0>government incentives and subsidies</ARG0>."
+"It is expected that <ARG1>the heavy rainfall and strong winds brought by the hurricane</ARG1> , <SIG0>will <ARG0>cause</SIG0> significant damage to coastal areas</ARG0> ."
+'<ARG0>After a heavy rainfall</ARG0> <SIG0.the roads became flooded</SIG0> <ARG1>and many cars were stranded in the streets.</ARG1>'
+'“ <ARG1>She was thrilled to receive</ARG1> <SIG0>the news of</SIG0> <ARG0>her promotion to the position of manager</ARG0> .'
+'<ARG0>The heavy rainfall and flooding</ARG0> <SIG0>resulted in</SIG0> <ARG1>widespread damage to homes and infrastructure.</ARG1>'
+"'After the incident, the local authorities decided <ARG1>to increase police presence in the area</ARG1> <ARG0><SIG0>to ensure the safety</SIG0> of the residents.'"
+"'The student council presented a petition to the principal on Thursday morning, <ARG0><SIG0>requesting</SIG0> for longer lunch breaks and more study spaces</ARG0>. <ARG1>The principal promised to consider their requests and discuss them with the school board</ARG1>.'"
+"'<ARG1>The heavy rain </ARG1><ARG0><SIG0>caused</SIG0> the river to overflow its banks</ARG0>, resulting in severe flooding in the surrounding area.'"
+'Travel restrictions were imposed <ARG0><SIG0>to</SIG0> prevent the spread of the virus</ARG0> <ARG1>leading to a decrease in international tourism</ARG1>.'
+"""Moreover, the heavy rainfall <ARG0>caused severe flooding in the city</ARG0> <ARG1><SIG0>leading to extensive damage to people's homes and infrastructure</SIG0>.</ARG1>"""
+'Mary couldn't understand why <ARG0>her car wouldn't start</ARG0> since <ARG1>she had just got it serviced</ARG1>.'
+0 Woman killed in car accident Posted : Mon Apr 5 2021 EST April 4 : <ARG1>The police have launched an investigation and charged the driver with vehicular manslaughter</ARG1> <SIG0>due to</SIG0> <ARG0>a speeding car that lost control and hit the victim's vehicle</ARG0> .
+The new minister took strict action against corruption <SIG0>by initiating a series of investigations and audits </SIG0><ARG1>to cleanse the system and restore transparency</ARG1><ARG0> in government departments</ARG0>.
+"<ARG0>Due to the heavy rain in the area</ARG0>, <SIG0>many flights were delayed</SIG0> <ARG1>causing inconvenience to the passengers</ARG1>."
+"'<SIG0>Despite</SIG0> <ARG0>the government implementing strict lockdown measures</ARG0>, <ARG1>the number of COVID-19 cases continued to rise</ARG1>.'"
+'<ARG1>Many students decided to drop out of school</ARG1> <SIG0>due to</SIG0> <ARG0>financial difficulties and lack of support from their families</ARG0> .'
+"""`` <ARG1>Students who joined the debate club</ARG1> , <ARG0><SIG0>to improve their public speaking</SIG0> , have seen significant improvements in their communication skills , '' according to the school principal."""
+'<ARG1>The heavy rain caused the streets to flood</ARG1> <SIG0>resulting in</SIG0> <ARG0>cars getting stuck</ARG0>.'
+"'February 15, 2017 12:00 CST <ARG1>Protest erupts in response to proposed budget cuts</ARG1> <SIG0>due to</SIG0> <ARG0>the government's financial crisis</ARG0>'"
+'The couple <ARG1>decided to buy a house</ARG1> <ARG0><SIG0>in order to</SIG0> start a family</ARG0>'
+"'<ARG1>The increase in carbon emissions from industrial activities</ARG1> , <SIG0>have led to</SIG0> <ARG0>higher global temperatures</ARG0> , resulting in several environmental consequences such as rising sea levels and melting ice caps.'"
+'Taking measures <ARG1>The city council increased taxes on luxury goods</ARG1> <ARG0><SIG0>in order to fund public infrastructure projects</SIG0></ARG0>.'
+"Schools will remain closed for an additional week and <SIG0>because of</SIG0> <ARG0>the increasing number of COVID-19 cases</ARG0>, <ARG1>to ensure the safety of students and staff</ARG1>, the district superintendent announced.'"
+"'CHENNAI: Heavy rains caused widespread flooding in the city July 20, 2020 00:00 IST <SIG0>Due to</SIG0> <ARG0>the overflowing of the city's drainage systems</ARG0>, <ARG1>residents in low-lying areas were forced to evacuate their homes</ARG1>.'"
+"'Furthermore, <ARG0>employers implemented pay cuts</ARG0> which <SIG0>resulted in many employees quitting</SIG0>.'"
+"'MUMBAI : <ARG0>Rainy weather</ARG0> , <ARG1>causing traffic jam</ARG1>'"
+'<ARG1>The heavy rain caused flooding in the city</ARG1> <SIG0>leading to extensive property damage</SIG0>.'
+'<ARG1>She ate a lot of ice cream</ARG1> <ARG0><SIG0>resulting in</SIG0> a stomachache</ARG0> .'
+"— | According to a recent study, <ARG0><SIG0>increasing</SIG0> screen time before bed</ARG0> <ARG1>leads to poor sleep quality</ARG1>."
+'<ARG1>The students boycotted classes <SIG0>to protest</SIG0> the tuition increase</ARG1> .'
+"October 3, 2017 09:30 CET, Public transportation employees went on strike <ARG1>Resulting in widespread disruptions, commuters were left stranded</ARG1> <ARG0>due to the lack of agreement between the workers' union and management</ARG0> ."
+"'After discovering evidence of embezzlement, <ARG1>the board of directors immediately terminated the CEO</ARG1> <SIG0>due to</SIG0> <ARG0>his financial misconduct</ARG0>.'"
+"There were reports of massive corruption within the government, <SIG0>which led to a decrease in public trust</SIG0> <ARG0>and sparked nationwide protests</ARG0> <ARG1>against the ruling party.</ARG1>"
+"I'm sorry, but as a language model, I am not capable of generating real-time news content. My purpose is to provide information and assist with tasks based on pre-existing knowledge. Is there anything else I can help you with?"
+'<ARG1>Health deteriorated </ARG1> <SIG0>due to lack of exercise</SIG0> <ARG0>during the pandemic</ARG0>.'
+"<SIG0>Due to the heavy rain and strong winds caused by the tropical storm</SIG0>, <ARG0)the tree fell on top of the car parked in the driveway</ARG0> . <ARG1)The car was severely damaged and had to be towed away</ARG1> ."
+'<ARG1>The car crashed into a tree</ARG1> <SIG0>because</SIG0> <ARG0>the driver was distracted by their phone</ARG0>.'
+'Increased taxes on cigarettes <SIG0>have led to a decrease in smoking rates among teenagers</SIG0> <ARG1>according to a recent study</ARG1> <ARG0>conducted by the Centers for Disease Control and Prevention</ARG0>.'
+"<ARG1>The crime rate is increasing rapidly</ARG1> , <SIG0>because of</SIG0> <ARG0>the lack of police presence in the neighborhood</ARG0> ."
+"'On May 3, 2020, a massive thunderstorm hit <ARG0>the coastal town of Miami</ARG0> causing <ARG1>widespread power outages</ARG1>. The strong winds and heavy rain led to fallen power lines and damaged transformers, leaving residents without electricity for several days. The local electric company worked tirelessly to restore power, but the extensive damage required significant repairs.'"
+"'The lack of proper maintenance of <ARG0>the electrical system</ARG0> <ARG1><SIG0>caused</SIG0> the power outage</ARG1> , leading to chaos in the city.'"
+"'<ARG0>A heavy rainstorm flooded the city streets last night</ARG0> , <ARG1><SIG0>causing</SIG0> traffic congestion</ARG1> , according to local reports.'"
+"'<ARG1>The heavy rainfall caused severe flooding</ARG1> in the city, <SIG0>leading to</SIG0> <ARG0>widespread damage to homes and infrastructure</ARG0>.'"
+"'<ARG0>Due to bad weather conditions</ARG0> , the flight was delayed for several hours <SIG0>resulting in</SIG0> numerous frustrated passengers.'"
+"'<ARG1>The traffic jam lasted for hours</ARG1> <SIG0>because</SIG0> <ARG0>there was a major accident on the highway</ARG0> , causing a delay in everyone's commute.'"
+"'To prevent further spread of the virus, the government announced a lockdown in the entire city.'"
+"'<ARG0>A heavy rainstorm caused widespread flooding in the city</ARG0> , <ARG1><SIG0>resulting in road closures and property damage</SIG0>.</ARG1>'"
+"'- The coach yelled at the players, <SIG0>telling them</SIG0> to practice harder and improve their skills, <ARG1>in order to win the upcoming tournament</ARG1>.'"
+"'Amidst heavy rainfall, the road near the construction site <ARG1>became flooded</ARG1> <ARG0><SIG0>due to the blocked drainage system</SIG0></ARG0>.'"
+"<Cause>Not studying for the exam</Cause> , <Signal>I ended up failing</Signal> ."
+"'STUDENT PROTESTS: 'Demanding' lower tuition fees, university students march through the city streets on February 17, 2022.'"
+The teacher explained that <ARG0>the lack of discipline in the classroom disrupts the learning environment</ARG0> <SIG0>resulting in</SIG0> <ARG1>poor academic performance</ARG1>.
+"""'New Research Shows Link Between Excessive Screen Time and Decreased Mental Well-being' Study published on 10th July 2021 08:30 AM <ARG0>A recent study conducted by psychologists at a renowned university</ARG0> <ARG1><SIG0>has found</SIG0> evidence of a negative correlation between excessive screen time and mental well-being</ARG1>, suggesting that reducing screen time may improve one's overall mental health."""
+'The heavy rain <SIG0>led to</SIG0> <ARG1>floods</ARG1> <ARG0>in the city</ARG0>.'
+"'The heavy rain , therefore , <ARG0>caused the flooding</ARG0> <SIG0>resulting in</SIG0> <ARG1>the evacuation of the residents</ARG1> .'"
+"<Cause>Due to heavy rain and flooding </Cause>, <Signal>many people were forced to evacuate their homes</Signal> <Effect>to seek safety and shelter elsewhere.</Effect>"
+"<ARG0>Heavy rain and strong winds</ARG0> <SIG0>caused widespread flooding and power outages</SIG0> <ARG1>across the city, resulting in extensive damage to buildings and infrastructure</ARG1>."
+The new modifications to the tax laws <SIG0>could potentially cause </SIG0> a decrease in overall consumer spending <ARG0>resulting in</ARG0> a slow-down in the economy and potential job losses.
+'<ARG1>The increase in pollution levels in the city has led to a rise in respiratory problems</ARG1> <SIG0>due to</SIG0> <ARG0>the lack of strict regulations on emissions</ARG0>.'
+'The heavy rain <ARG1>flooded several streets</ARG1> <SIG0>causing massive traffic delays</SIG0> in the city.'
+"Describing the success as ""a remarkable achievement"", the coach announced, ""<ARG1>The team will continue to train hard</ARG1> <ARG0>to maintain their winning streak</ARG0>."""
+"'<ARG1>The company's profits have declined</ARG1> <SIG0>due to</SIG0> <ARG0>the decrease in consumer spending</ARG0> , according to the latest financial report.'"
+"""`` After realizing the danger, <ARG0>she stepped on the brakes</ARG0> <ARG1><SIG0>that prevented</SIG0> a major accident</ARG1> '' ."""
+'<ARG1>The company implemented cost-cutting measures</ARG1> <SIG0>resulting in</SIG0> <ARG0>layoffs and reduced salaries</ARG0>.'
+"'After the increase in cyber attacks, companies have started investing heavily in cybersecurity <SIG0> to protect their sensitive data and prevent future breaches </SIG0>.'"
+"After the heavy rainfall, <ARG1>the streets were flooded</ARG1> <SIG0>causing</SIG0> <ARG0>traffic jams and delays in public transportation</ARG0>."
+'<ARG1>The increase in sales</ARG1> <SIG0>is because of</SIG0> <ARG0>the new marketing strategy</ARG0> the company implemented.'
+"'<ARG1>Stock prices plummeted</ARG1> , <SIG0>triggering panic selling</SIG0> <ARG0>as investors reacted to negative earnings reports</ARG0>.'"
+The teacher chastised <ARG1>the student</ARG1> <SIG0>because of</SIG0> <ARG0>continuous disruption in the class</ARG0>.
+"'Upon receiving a low grade on his exam, <ARG1>John decided to study harder</ARG1> in order to improve his performance, <ARG0>realizing that his lack of preparation was the cause of his poor results</ARG0>.'"
+""" <ARG0>The heavy rainstorm flooded the streets</ARG0> <SIG0>resulting in</SIG0> <ARG1>widespread damage to cars and buildings</ARG1>."""
+"<ARG0><SIG0>Due to the heavy rain and strong winds</SIG0></ARG0>, the outdoor concert was cancelled.'"
+"'Noticing a strange smell in the kitchen, Sarah quickly realized <ARG0>there was a gas leak</ARG0> , <ARG1>posing a potential danger</ARG1> ."
+'Students <ARG1>are more motivated to study</ARG1> : because teachers <ARG0>use interactive and engaging teaching methods</ARG0>.
+'<ARG1>The company's profits soared</ARG1> when <ARG0>they implemented new marketing strategies</ARG0>.'
+"'Due to rising unemployment rates and limited job opportunities, <ARG0>frustration and despair</ARG0> <SIG0>led to</SIG0> <ARG1>a surge in crime rates</ARG1>.'"
+"'After analyzing the situation, the committee <ARG1>decided to cancel the event</ARG1> <SIG0>due to the possibility of heavy rain</SIG0>.'"
+"'After the announcement, <ARG1>the stock prices plummeted</ARG1> <ARG0><SIG0>due to the fear of an economic downturn</SIG0>.'"
+"""<ARG0><SIG0>In order to</SIG0> reduce traffic congestion, </ARG0><ARG1>the city implemented a new public transportation system.</ARG1>"""
+'<ARG1>He failed the exam</ARG1> <SIG0>because</SIG0> <ARG0>he didn't study</ARG0>.'
+"'<SIG0>Since</SIG0> <ARG0>the weather forecast predicts heavy rain</ARG0>, <ARG1>the outdoor event has been postponed</ARG1>.'"
+"""During the strike, <ARG1>the workers picketed outside the factory </ARG1><ARG0><SIG0>as a means to demand better working conditions</SIG0></ARG0>."""
+'The cancellation of the event <ARG1>led to disappointment among the attendees</ARG1> <SIG0>as they had been eagerly anticipating it</SIG0> <ARG0>since the announcement</ARG0>.'
+'<ARG1>The stock market crashed yesterday</ARG1> <SIG0>due to</SIG0> <ARG0>fears of an economic recession and uncertainty in global markets</ARG0>.'
+'<ARG0>Due to heavy rainfall and flooding</ARG0> <SIG0>several roads were closed</SIG0> <ARG1>causing traffic congestion in the city</ARG1>.'
+"""<ARG1>The company's profits skyrocketed</ARG1> <SIG0>due to their new marketing strategy</SIG0> implemented last quarter."""
+"'<ARG1>The store experienced a significant increase in sales</ARG1> <SIG0>due to</SIG0> <ARG0>a successful marketing campaign</ARG0> , the company's profits soared.'"
+"'AP PATNA: In an effort <ARG0><SIG0>to reduce pollution levels in the city</SIG0></ARG0>, the local government has implemented a new policy <ARG1>that encourages the use of bicycles and public transportation</ARG1>.'"
+"""Despite widespread protests, the government's decision <ARG1>to increase fuel prices</ARG1> <SIG0>resulted in <ARG0>rising inflation</SIG0>."""
+"'Nevertheless, the government's lack of action <ARG1>led to</ARG1> <ARG0><SIG0>a decline</SIG0> in the economy</ARG0>.'"
+"""But <ARG0>his hard work</ARG0> <SIG0>resulted in</SIG0> <ARG1>him getting a promotion at work.</ARG1>"""
+"'After <ARG0>the company's stock plummeted due to the CEO's scandalous behavior</ARG0>, <SIG0>the board of directors decided to initiate a thorough investigation</SIG0> which ultimately led to <ARG1>the CEO's resignation and the appointment of a new leader</ARG1>.'"
+"- After witnessing the devastating earthquake, <ARG0><SIG0>people came together</SIG0> to support the affected communities</ARG0>, <ARG1>organizing relief efforts and providing essential supplies</ARG1>."
+"'<ARG1>Due to heavy rain and flooding,</ARG1> <SIG0>many people were unable to commute to work</SIG0>.'"
+"'<SIG0>Because</SIG0> <ARG0>they neglected their responsibilities</ARG0> , <ARG1>the project failed</ARG1> . ""'"
+"""<ARG1>Rapid technological advancements in the field of artificial intelligence <SIG0>have led to</SIG0> <ARG0>a decrease in job opportunities for certain professions</ARG0>."""
+"""Due to the recent spike in pollution levels, <SIG0>the government has implemented stricter regulations on industrial emissions</SIG0>. <ARG0>The new policies aim to reduce air pollution and improve public health</ARG0>, <ARG1>by imposing fines on non-compliant factories and promoting the use of clean energy sources</ARG1>."""
+'<ARG1>The company's stock plummeted</ARG1> <SIG0>due to</SIG0> <ARG0><SIG1>a disappointing earnings report</SIG1>.</ARG0>'
+"In 2020, <ARG0><SIG0>protesting against</SIG0> the government's new tax policies</ARG0>, <ARG1>citizens took to the streets in massive demonstrations</ARG1>."
+"'<ARG0>The heavy rain caused severe flooding</ARG0> and <ARG1>many houses were damaged and people had to be evacuated</ARG1> , the news reported.'"
+"""Due to a sudden collapse in the stock market, <ARG0>many investors panicked and started selling their shares</ARG0>, which <SIG0>led to</SIG0> <ARG1>a significant drop in the overall market value</ARG1>,"" financial expert John Smith explained."
+"'Militants launch surprise attack, two injured in assault on security outpost - Local News Agency, Local News Agency: Kabul, Afghanistan, March 2, Mon Mar 3 2021, 09:30 hrs In a sudden and unexpected move, <ARG1>two security personnel, including a police officer, sustained injuries</ARG1> during <ARG0>an assault by militants on a security outpost</ARG0> in a remote area of the country.'"
+"'Public health officials reported that <ARG0>the increase in smoking rates among teenagers , coupled with a lack of anti-smoking campaigns targeting this age group</ARG0> has led to <ARG1>a rise in youth smoking-related illnesses</ARG1>.'"
+"The construction workers accidentally hit a gas pipe while digging, which <SIG0>resulted in</SIG0> a major gas leak <ARG1>causing the evacuation of nearby buildings</ARG1> <ARG0>due to safety concerns</ARG0>."
+<ARG0>The heavy rain caused the road to flood</ARG0> and <ARG1>caused a traffic jam</ARG1> .'
+"'She argued that <ARG0>the heavy rain and strong winds</ARG0> <SIG0>caused significant damage to</SIG0> the coastal areas, <ARG1>resulting in widespread flooding and destruction of homes.</ARG1>'"
+"'Heavy rain caused severe flooding in the city <SIG0>resulting in numerous road closures and property damage</SIG0>, according to local authorities <SIG0>who reported an increase in emergency calls and evacuations</SIG0>.'"
+"<SIG0>Due to heavy rainfall and strong winds</SIG0>, <ARG0>several trees were uprooted and power lines were knocked down</ARG0>."
+"'After discovering a leak in the roof, the homeowners hired a contractor to fix the damage <SIG0>in order to prevent further water damage</SIG0>.'"
+"""<ARG1>Protesters blocked the streets today in support of stricter gun control laws</ARG1> <ARG0><SIG0>demanding</SIG0> action from lawmakers</ARG0> ."""
+"'<ARG1>The bridge collapsed</ARG1> , <SIG0>resulting in</SIG0> <ARG0>multiple injuries</ARG0>.'"
+'<ARG1>The company experienced a significant drop in sales last quarter</ARG1> <ARG0><SIG0>due to</SIG0> poor marketing strategies</ARG0>.'
+"'Yesterday, heavy rains and strong winds caused severe damage to several houses in the village, <SIG0>resulting in</SIG0> <ARG1>collapsed roofs and flooded rooms</ARG1>.'"
+'<ARG1>Prices skyrocketed</ARG1> due to <SIG0>increased demand</SIG0> for essential goods during the pandemic.'
+"<ARG0>The heavy rain</ARG0> <SIG0>caused the river to overflow</SIG0> <ARG1,resulting in widespread flooding</ARG1>."
+"""<ARG1>The company's profits have plummeted </ARG1><ARG0><SIG0>due to</SIG0> a decline in consumer demand</ARG0>."""
+"With <ARG0>the heavy rain that poured all night long</ARG0>, <ARG1>the streets were flooded, causing traffic chaos and delays</ARG1>.'"
+"'During the storm, <ARG1>a tree was uprooted and fell on a car</ARG1> <SIG0>causing extensive damage</SIG0>.'"
+<SIG0>An increase in unemployment rates</SIG0> has <ARG1>led to an increase in poverty levels</ARG1> across the country <ARG0>due to job losses and lack of income opportunities</ARG0>.
+"'<ARG0>A surge in unemployment rates</ARG0> , <ARG1><SIG0>led to</SIG0> an increase in crime</ARG1>.'"
+'Drinking excessive amounts of alcohol : Liver damage occurs <SIG0>due to</SIG0> <ARG0>the toxic effect that alcohol has on the liver</ARG0>.'
+'( BBC ) LONDON: <ARG1>A car crashed into a tree and burst into flames</ARG1> <SIG0>because</SIG0> <ARG0>the driver fell asleep at the wheel</ARG0>.'
+'<ARG1>The heavy rainstorm caused extensive flooding</ARG1> in <ARG0>the low-lying areas</ARG0> <SIG0>leading to</SIG0> significant damage to homes and infrastructure.'
+'She argued that <ARG0>a lack of funding for education</ARG0> led to <ARG1>a decrease in student performance and an increase in dropout rates</ARG1>.'
+"'<ARG1>The increase in pollution levels in the city</ARG1>, <ARG0><SIG0>has led to</SIG0> a rise in respiratory illnesses among the population</ARG0>.'"
+'<ARG0>The students were discussing the upcoming science fair </ARG0> when <ARG1>they realized they had forgotten to prepare their project</ARG1>'
+"'Floods : <ARG0>Heavy rains in the region caused severe flooding in the city</ARG0> <ARG1><SIG0>resulting in</SIG0> widespread damage to homes and infrastructure</ARG1>, and forcing thousands of residents to evacuate.'"
+<SIG0>The heavy rain </SIG0> caused <ARG0>the river to overflow </ARG0> and <ARG1>resulted in widespread flooding in the city</ARG1>.
+"During <ARG0>the thunderstorm</ARG0> , <ARG1>the power went out</ARG1> ."
+"<ARG0><SIG0>As the temperature dropped</SIG0> , <ARG1>the leaves began to change color</ARG1>."
+"'<ARG0>Heavy rain and strong winds</ARG0> <SIG0>caused</SIG0> <ARG1>widespread flooding and power outages</ARG1> in the city, leading to road closures and disrupted public transportation.'"
+'<ARG1>The heavy rain and strong winds </ARG1><SIG0>caused</SIG0><ARG0> the tree to fall down</ARG0>.'
+"'PROTESTORS Lockdown imposed in city April 15, 2022 10:00 AM UTC Demand better facilities: <ARG1>Residents of the city gathered outside the mayor's office</ARG1> <SIG0>to express their discontent</SIG0> <ARG0>with the current living conditions</ARG0>.'"
+"Similarly, <ARG1>as the economy continued to decline</ARG1> <SIG0>despite government interventions</SIG0> <ARG0>companies laid off thousands of employees</ARG0>."
+'<ARG1>The stock market crashed</ARG1> because <ARG0>investors panicked</ARG0> after the release of disappointing economic data<SIG0>.</SIG0>'
+'Mumbai <ARG1>The heavy rain led to severe flooding in several parts of the city</ARG1> when <ARG0>the drainage system failed to cope with the excessive water</ARG0>.'
+"'In Chennai, <ARG1>a group of students boycotted their classes, demanding better facilities on campus</ARG1> <ARG0>because the university administration failed to fulfill their promises to improve the infrastructure</ARG0>.'"
+"'According to the weather forecast, <ARG0>heavy rainfall </ARG0><SIG0>could lead to</SIG0> <ARG1>flooding</ARG1>.'"
+"The electricity went off <ARG1>as soon as the storm hit</ARG1> , causing <ARG0>all the lights in the neighborhood to go out</ARG0> ."
+"'When <ARG0>the car broke down</ARG0>, <SIG0>the driver called for a tow truck</SIG0> <ARG1>to fix the problem</ARG1>.'"
+"'The government implemented new policies to combat inflation, <SIG0>resulting in a decrease in the purchasing power of consumers</SIG0>."
+"Yesterday's storm caused significant damage to the city: <ARG0>The strong winds and heavy rain</ARG0> <SIG0,resulted in</SIG0> <ARG1, collapsing multiple buildings and knocking down trees.</ARG1>"
+'The heavy rain disrupted the traffic flow <SIG0>causing</SIG0> <ARG1>long delays and congestion on the roads</ARG1> <ARG0>due to poor drainage systems</ARG0>.'
+'<ARG1>Jane decided to study every day for her upcoming exam</ARG1> <ARG0><SIG0>so that</SIG0> she could improve her grades</ARG0> before the end of the semester.'
+'<ARG1>The company implemented a new marketing strategy</ARG1> <ARG0><SIG0>in order to</SIG0> increase brand awareness and attract more customers</ARG0>.'
+<ARG0>She joined the gym</ARG0> <SIG0>to improve her fitness</SIG0> <ARG1>and ended up losing a significant amount of weight</ARG1>.
+"""On January 15, while walking in the park, I stumbled <ARG1>over a fallen branch</ARG1> causing <ARG0>me to lose my balance and fall</ARG0>."""
+"'DELHI <ARG1>Traffic jam</ARG1> <ARG0>due to heavy rain</ARG0> August 10, 2021 09:30 AM IST Chaos on the roads :'"
+"'Due to heavy rain and flooding, <ARG0> the city declared a state of emergency</ARG0>, <SIG0> leading to the evacuation of thousands of residents</SIG0>.'"
+"'She lost her job <ARG0><SIG0>after consistently being late to work</SIG0></ARG0>, leading to financial insecurity and having to find a new source of income <ARG1>.</ARG1>'"
+'Government officials warned <ARG1>that failure to enforce stricter environmental regulations</ARG1> <ARG0><SIG0>could lead to irreversible damage to the ecosystem</SIG0>.</ARG0>'
+"'Heavy rain poured down from the dark clouds above, <ARG0>flooding the streets</ARG0>, <ARG1><SIG0>causing</SIG0> severe traffic congestion</ARG1>.'"
+'<ARG0>The heavy rain caused flooding in the streets</ARG0> <SIG0>resulting in</SIG0> <ARG1>several cars getting stuck and people having to evacuate their homes</ARG1>.'
+"""PROTESTORS Students demand stricter gun control laws after recent school shooting <ARG1>organizing a peaceful demonstration</ARG1> <ARG0><SIG0>to show their frustration with</SIG0> the government's inaction</ARG0> towards gun violence."""
+"'<ARG1>The students – many of whom were carrying backpacks and notebooks and were armed with pencils and highlighters , as well as textbooks and study guides – improved</ARG1> <SIG0>by</SIG0> <ARG0>studying diligently and attending tutoring sessions</ARG0> .'"
+'<ARG1>The government implemented stricter lockdown measures in response to the rising number of COVID-19 cases</ARG1> <ARG0><SIG0>warning</SIG0> citizens that failure to comply could result in further spread of the virus and increased risk to public health</ARG0>.'
+'It stated <ARG0>the lack of maintenance</ARG0> <SIG0>resulted in</SIG0> <ARG1>a complete shutdown of the system.'</ARG1>
+"June 15, 2021 09:00 AM PST <ARG1>The students protested</ARG1> <SIG0>against</SIG0> <ARG0>a rise in tuition fees</ARG0>"
+"': <ARG0>Protesting</ARG0> against the rising fuel prices, <SIG0>thousands of motorists</SIG0> went on strike, causing traffic jams in the city.'"
+"'Protesters marched through the streets demanding justice for the victims of police brutality, <ARG1>forcing city officials to address the issue</ARG1> <ARG0><SIG0>in order to</SIG0> maintain public order</ARG0>.'"
+'<ARG1>The recent spike in COVID-19 cases </ARG1> has led to <ARG0><SIG0>increased restrictions</SIG0></ARG0> in the affected areas.'
+"'“ <SIG0>When</SIG0> <ARG0>students study diligently</ARG0> , then <ARG1>they will achieve good grades</ARG1> …'"
+'The professor's inspiring lecture <ARG1>motivated the students to study harder</ARG1> <ARG0><SIG0>in order to improve their grades</SIG0></ARG0>.'
+"The heavy rain <ARG0>caused flooding in the city</ARG0>, <ARG1><SIG0>resulting in widespread damage</SIG0></ARG1>."
+'<ARG1>The heavy rain caused flooding in the city</ARG1> <SIG0>leading to</SIG0> <ARG0>several roads being closed</ARG0>.'
+"""<ARG1>The stock market crashed</ARG1> <SIG0>due to</SIG0> <ARG0>a global recession</ARG0> ."""
+"""<ARG0>The heavy rain caused</ARG0> <SIG0>the river to flood</SIG0> <ARG1>the nearby village.</ARG1>"""
+"'<ARG0><SIG0>To</SIG0> promote environmental awareness</ARG0> , <ARG1>a group of volunteers organized a beach cleanup event</ARG1>.'"
+"'In light of recent events, <ARG1>protesters occupied the city center</ARG1> <SIG0>due to</SIG0> <ARG0>a proposed increase in taxes</ARG0>.'"
+"'<ARG1>The price of petrol will continue to rise</ARG1> <SIG0>unless</SIG0> <ARG0>the government decides to implement measures to stabilize oil prices</ARG0>, according to industry experts.'"
+'<ARG1>Jim failed the test</ARG1> <SIG0>because</SIG0> <ARG0>he didn't study enough</ARG0>.'
+'<ARG1>John got angry</ARG1> <SIG0>because</SIG0> <ARG0>he failed the exam</ARG0>.'
+"'<ARG0>The increase in pollution levels</ARG0> <SIG0>results in <ARG1>adverse health effects</SIG0>, according to scientific studies.'"
+"In the wee hours of the morning, <ARG0>a severe thunderstorm</ARG0> <SIG0>brought about</SIG0> <ARG1)a power outage</ARG1>."
+'It was only after <ARG0>heavy rainfall and flooding in the area</ARG0> that <ARG1>residents were forced to evacuate their homes and seek temporary shelter</ARG1>.'
+'<ARG1>A car crash</ARG1> occurred <SIG0>as a result of</SIG0> reckless driving.'
+'<ARG0>A lack of rain resulted in </ARG0><SIG0>a severe drought</SIG0><ARG1> in the region.</ARG1>'
+'Heavy rainfall <ARG1>caused severe flooding</ARG1> <SIG0>resulting in</SIG0> <ARG0>widespread property damage</ARG0>.'
+"'Members of the local community, united in their concerns for the environment, <ARG0><SIG0>protested</SIG0> against deforestation and the destruction of natural habitats</ARG0> <ARG1>by organizing a peaceful demonstration in the city center</ARG1>.'"
+"'INDUSTRY STRUGGLES TO RECOVER: <ARG1>Manufacturing companies facing financial difficulties</ARG1>, <ARG0>resulting in a decline in production and job losses</ARG0>, according to recent reports.'"
+"'Although the city has experienced protests in the past, it is the first time that <ARG1>demonstrators demanding police reform</ARG1> <SIG0>have taken to the streets</SIG0> <ARG0>in such large numbers</ARG0>.'"
+'<ARG1>The highway was congested with traffic</ARG1> <SIG0>because of</SIG0> <ARG0>a major accident that occurred during rush hour</ARG0>.'
+"He was tired and <ARG1>he fell asleep</ARG1> <ARG0><SIG0>after working late</SIG0> for several hours</ARG0>, she explained."
+'<ARG0>The heavy rain flooded the streets and caused</ARG0> <ARG1><SIG0>widespread damage to the houses and infrastructure</SIG0>.'
+"'<SIG0>Due to</SIG0> <ARG0>the heavy rain</ARG0>, <ARG1>the soccer match was postponed until next week</ARG1>.'"
+"'15th November 2019 10:30 AM NEW YORK / LONDON / PARIS : Amidst growing concerns over climate change, <ARG1>thousands of activists took to the streets</ARG1> <SIG0>demanding</SIG0> <ARG0>stronger government action</ARG0> as global leaders gathered for the UN Climate Summit.'"
+"'I am urging <ARG0>everyone to recycle their waste</ARG0> , <SIG0>otherwise</SIG0> , <ARG1>we will continue to see harmful effects on the environment</ARG1> , "" said the environmental activist during the conference on sustainable living."
+<SIG0>Heavy rainfall</SIG0> caused <ARG1>severe flooding</ARG1> in the city.
+"""<ARG1>The new regulations and guidelines</ARG1> <ARG0><SIG0>imposing strict safety measures</SIG0> were introduced after the recent workplace accident.</ARG0>"""
+"'Following the announcement of the hike in fuel prices, <ARG1>commuters across the city started carpooling and using public transportation</ARG1> <SIG0>as a result of</SIG0> <ARG0>the increased cost of driving</ARG0>.'"
+"'She warned her friends about the dangers of smoking, <SIG0>and</SIG0> <ARG0>if they continued to smoke</ARG0>, <ARG1>their health would deteriorate</ARG1>.'"
+"'After a heated argument with his boss, <ARG0>John decided to quit his job</ARG0>, leading to <ARG1>him starting his own successful business</ARG1>.'"
+"'<ARG1>The students protested outside the university administration building</ARG1> , <ARG0><SIG0>calling for</SIG0> increased funding for education</ARG0>.'"
+"'(In the wake of the recent hike in petrol prices) <ARG1>Protesters gathered outside the oil company headquarters and chanted slogans for hours</ARG1>, <ARG0><SIG0>calling for</SIG0> government intervention and lower fuel costs</ARG0>.'"
+"""<ARG0><SIG0>Due to the heavy rain that caused flooding in the city</SIG0>, <ARG1>many residents were forced to evacuate their homes and seek temporary shelter</ARG1>."""
+"""<SIG0>The heavy rainfall</SIG0> <ARG0>caused severe flooding in the city</ARG0> <ARG1><SIG1>leading to</SIG1> widespread damage and displacement of residents</ARG1>."""
+"'<SIG0>Due to</SIG0> <ARG0>heavy rainfall</ARG0> , <ARG1>the river flooded the surrounding area</ARG1> , causing extensive damage to homes and infrastructure."
+"'Recent rainstorms caused severe flooding in the city, <SIG0>leading to</SIG0> extensive damage to homes and infrastructure.</ARG0> <ARG1>The local government has declared a state of emergency and mobilized resources to assist affected residents.</ARG1>'"
+'12th February 2020 09:30 AM <ARG1>Students from various colleges across the state <SIG0>marched in the streets</SIG0> <ARG0>demanding</ARG0> free education and better facilities for underprivileged students</ARG1>.'
+'<ARG0>High levels of pollution</ARG0> <SIG0>can lead to<ARG1> respiratory problems and asthma attacks</ARG1>'
+"'- According to reports, <ARG0>a student was caught cheating during the exam</ARG0> , <SIG0>leading to</SIG0> <ARG1>a major scandal in the school</ARG1> .'"
+'<ARG1>The government implemented stricter gun control regulations </ARG1><ARG0><SIG0>in response to increasing rates of gun violence</SIG0>.</ARG0>'
+"""( AFTER FOLLOWING COVID-19 PROTOCOLS ; PRIORITIZES VACCINATED INDIVIDUALS FIRST ) The hospital implemented a new policy <ARG1>to prioritize vaccinated individuals first</ARG1> <ARG0><SIG0>in order to prevent further spread of the virus</SIG0></ARG0>."""
+"""<ARG1>The heavy rain caused severe flooding in the city</ARG1> <ARG0><SIG0>resulting in</SIG0> extensive damage to homes and infrastructure</ARG0>."""
+'<ARG0>The heavy rain</ARG0> <SIG0>resulted in</SIG0> <ARG1>widespread flooding in the city.</ARG1>'
+'<ARG1>The stock market crashed</ARG1> <SIG0>due to</SIG0> <ARG0>a global recession</ARG0>.'
+'<ARG1>The heavy rain flooded the streets</ARG1> <ARG0>due to the faulty drainage system</ARG0> .'
+'<ARG0>The lack of funding</ARG0> <SIG0>led to</SIG0> <ARG1>the cancellation of the project.</ARG1>'
+"'<ARG1>The students organized a fundraising event</ARG1> , <ARG0>to raise money for the school library</ARG0> ."
+"""<ARG1>The heavy rain caused</ARG1> the streets to flood <SIG0>resulting in</SIG0> massive traffic jams."""
+"'After <SIG0>a long and intense debate</SIG0>, <ARG0>the new policy was implemented</ARG0>, resulting in <ARG1>a decrease in unemployment rates</ARG1>, according to the government's report.'"
+'<ARG0>Heavy rains and strong winds</ARG0> caused <ARG1>severe flooding in the city</ARG1> <SIG0>leading to extensive damage to homes and infrastructure</SIG0>.'
+"The storm caused <ARG1>power outages in the entire city, trees to fall, and damages to buildings</ARG1> as <ARG0>strong winds and heavy rainfall hit the area</ARG0> ."
+<ARG1>A company implemented strict cost-cutting measures</ARG1> <ARG0><SIG0>resulting in</SIG0> a significant decrease in employee morale</ARG0>.'
+"'<ARG0><SIG0>Protesting</SIG0> against the unfair treatment</ARG0> , <ARG1>a group of workers went on strike.</ARG1>'"
+"'“ <ARG1>The project failed</ARG1> <SIG0>due to</SIG0> <ARG0>poor planning and lack of communication</ARG0> ,” the CEO explained.'"
+"<ARG0>Due to poor weather conditions</ARG0> , <SIG0>the plane crashed</SIG0> resulting in <ARG1>multiple fatalities</ARG1>."
+"<ARG0>In spite of his efforts to find a job</ARG0>, <SIG0>his financial situation didn't improve</SIG0> <ARG1>and he struggled to make ends meet</ARG1>."
+"'The heavy rainfall caused major flooding in the city, <ARG0>washing away several houses</ARG0> <SIG0>resulting in</SIG0> <ARG1>widespread displacement of residents</ARG1>.'"
+'<ARG0>Due to heavy rainfall and strong winds</ARG0> <SIG0>resulting from a tropical storm</SIG0> <ARG1>several trees fell down and caused damage to the power lines.</ARG1>'
+"'<ARG1>After eating a full meal, </ARG1><SIG0>she felt incredibly tired</SIG0> <ARG0>because her body was working to digest the food.</ARG0>"
+'Protests erupt in the city as the government announces a controversial policy <SIG0>triggering violent clashes between police and demonstrators</SIG0> <ARG1>resulting in multiple injuries and arrests</ARG1>.'
+"""There was <ARG1>an increase in crime rates</ARG1> <ARG0><SIG0>due to</SIG0> the lack of police presence</ARG0> , citizens are feeling unsafe in their neighborhoods."""
+'She ignored the warning signs and ended up <ARG1)getting lost</ARG1> in <ARG0>the forest</ARG0> <SIG0>despite the clear trail markers</SIG0>.'
+"Meanwhile, <ARG0>heavy rain and strong winds</ARG0><ARG1><SIG0>caused</SIG0> severe damage to the crops</ARG1>."
+"'John's car broke down on his way to work this morning, but <ARG0>his lack of car maintenance</ARG0> <SIG0>resulted in</SIG0> <ARG1>him being late for an important meeting.</ARG1>'"
+"'Due to heavy rain and strong winds, the outdoor event was canceled <SIG0>resulting in</SIG0> <ARG1>disappointed attendees</ARG1> <ARG0>not being able to enjoy the planned activities</ARG0>.'"
+'CHICAGO: <ARG0>The sudden increase in unemployment rates in the city</ARG0> <SIG0>has led to</SIG0> <ARG1)a surge in crime rates and social unrest</ARG1>.'
+"'Rohan Sharma, the CEO of XYZ Company, praised <ARG0>his employees</ARG0> <SIG0>for</SIG0> <ARG1>their hard work</ARG1>.'"
+"<ARG0>The heavy rainstorm</ARG0> caused <SIG0>the river to overflow</SIG0>, leading to <ARG1>widespread flooding in the surrounding areas</ARG1>."
+"'“ <SIG0>If</SIG0> <ARG0>he had studied</ARG0> <ARG1>harder, he would have passed the exam</ARG1> .'"
+<ARG0>Inadequate maintenance and neglect of safety protocols</ARG0> <SIG0> led to <ARG1>a major fire at the industrial plant</ARG1>.
+"'<ARG1>Several cars were damaged</ARG1> when <ARG0>a tree fell during the storm</ARG0> , according to witnesses.'"
+"<Federal authorities conducted extensive investigations</ARG1> <SIG0>in order to uncover any potential criminal activity.</SIG0> <ARG0>As a result, numerous individuals were arrested and prosecuted.</ARG0>"
+"'<SIG0>When</SIG0> <ARG0>the students protested against the tuition hike</ARG0>, <ARG1>the university administration reconsidered their decision</ARG1>.'"
+'CHENNAI : <ARG0>The heavy rains in the city</ARG0> <SIG0>resulted in</SIG0> <ARG1)flooded streets and disrupted transportation</ARG1>.'
+"'<ARG0>The excessive consumption of sugary drinks</ARG0> , <ARG1><SIG0>has led to</SIG0> a significant increase in obesity rates</ARG1> .'"
+"""We have been working tirelessly on this project, but <ARG0><SIG0>due to miscommunication</SIG0> our progress has been hindered </ARG0> and we are falling behind schedule."""
+'<ARG0>The heavy rain and strong winds</ARG0> <SIG0>led to</SIG0> <ARG1>widespread flooding and damage to homes and infrastructure</ARG1>.'
+"""<ARG1>The students at the school, who were failing their math class, decided to seek extra tutoring</ARG1> <SIG0>after</SIG0> <ARG0>their teacher offered free after-school help sessions</ARG0>."""
+"'<ARG0>After the new policy was implemented</ARG0>, <SIG0>resulting in</SIG0> <ARG1)a decrease in sales</ARG1>.'"
+"April 10 , 2020 09:00 PDT Introduces new tax law The government on Friday, implemented a new tax law <ARG0>in an effort to generate additional revenue</ARG0> <SIG0>leading to</SIG0> <ARG1>an increase in the overall tax burden on citizens</ARG1>."
+"'Sparked by allegations of corruption, <ARG1> numerous citizens organized a protest march through the streets of the city </ARG1> <ARG0><SIG0>calling for</SIG0> a thorough investigation and justice</ARG0>.'"
+"'<ARG0>The heavy rains caused severe flooding in the city</ARG0> , <ARG1><SIG0>resulting in</SIG0> widespread damage to homes and infrastructure</ARG1> .'"
+"'<ARG0>The heavy rain and flooding</ARG0> , <SIG0>resulting in road closures and power outages</SIG0> , <ARG1)led to the cancellation of the outdoor event.</ARG1>'"
+'<ARG1>The heavy rain caused severe flooding in the city</ARG1> because <ARG0>the drainage system was not properly maintained</ARG0>.'
+"'LOCAL ELECTIONS Mayor's victory in the election November 8, 2022 21:00 GMT NEW YORK: <ARG1>Alexander Brown emerged as the clear winner in the local mayoral election, securing a decisive victory</ARG1> <ARG0><SIG0>due to his extensive campaign efforts and strong support from the community</SIG0>.</ARG0>'"
+'<ARG1>The car crashed</ARG1> as <ARG0>the driver failed to brake in time</ARG0> <SIG0>despite the warning signs</SIG0>.'
+"'June 20, 2021 09:00 AM PDT Residents stage a demonstration <ARG1>To demand better infrastructure in their neighborhood, a group of residents blocked the main road for several hours</ARG1> <ARG0><SIG0>in an effort to bring attention</SIG0> to their plight.</ARG0>.'"
+"'<ARG1>Phone sales increased dramatically</ARG1> , after <ARG0>the company released its new flagship model</ARG0> .'"
+"'As a result of the heavy rain, <ARG1>the streets in the city were flooded</ARG1> <ARG0>leading to traffic chaos</ARG0>.'"
+"'<ARG0>Students across the country, concerned about the lack of action on climate change</ARG0>, are participating in protests and demanding immediate government action <ARG1>to protect the planet for future generations</ARG1>."
+'<ARG0>She saved up money</ARG0> <SIG0>so</SIG0> <ARG1>she could buy a new car</ARG1>.'
+"15th July 2019 09:30 PM <ARG1>The government has implemented new regulations and imposed heavy fines for littering in public areas</ARG1> , <ARG0><SIG0>as a result of the increasing pollution levels and public concern for environmental degradation</SIG0> ."
+'<ARG1>Heavy rainfall</ARG1> <ARG0><SIG0>led to</SIG0> widespread flooding in the city.</ARG0>'
+"During the storm, <ARG0>the power lines were knocked down</ARG0> <SIG0>causing</SIG0> <ARG1>a widespread blackout</ARG1>."
+'The heavy rain <SIG0>led to</SIG0> <ARG0>flooding in the streets</ARG0> <ARG1>causing traffic congestion</ARG1>.'
+"'Climate change : Scientists warn of extreme weather events September 12 , 2022 09:00 AM UTC <ARG1>A recent study conducted by international researchers</ARG1> <ARG0><SIG0>warns</SIG0> that extreme weather events, such as hurricanes and heatwaves, will become more frequent and intense due to the effects of climate change</ARG0>.'"
+"<Cause>As the demand for renewable energy continues to rise</Cause> <Signal>, more companies are investing in wind and solar power.</Signal> <Effect>This has led to an increase in job opportunities in the clean energy sector.</Effect>"
+'| It was <ARG0><SIG0>due to the heavy rain and strong winds</SIG0></ARG0> that the outdoor concert was cancelled <ARG1>for safety reasons</ARG1>'
+'<ARG1>The heavy rain caused flooding in the city</ARG1> <SIG0>leading to</SIG0> <ARG0>widespread damage</ARG0>.'
+"In 2015, <ARG1>she diligently studied for the exam</ARG1> <ARG0><SIG0>in order to</SIG0> improve her grades</ARG0>."
+'<ARG1>The heavy rain caused</ARG1> <SIG0>a major flooding</SIG0> in <ARG0>the city</ARG0>.'
+"After the heavy rains in the area, the river flooded its banks <SIG0>resulting in</SIG0> <ARG1>widespread damage to homes and infrastructure</ARG1> <ARG0>forcing thousands of residents to evacuate</ARG0>."
+She explained that the management team was concerned about <ARG1>the decrease in sales</ARG1> <SIG0>due to</SIG0> <ARG0>the lack of advertising</ARG0> during the holiday season.
+"The CEO announced that due to <ARG0>increased productivity and efficiency</ARG0> <SIG0>in the company's operations</SIG0>, <ARG1>profits have been steadily increasing</ARG1>."
+"'<ARG1>The company decided to lower prices</ARG1> <ARG0><SIG0>in order to increase sales</SIG0></ARG0>, according to the CEO.'"
+'The heavy rain <ARG0>flooded the streets and caused traffic chaos</ARG0> <SIG0>resulting in</SIG0> <ARG1>numerous accidents and delays</ARG1>.'
