@@ -1,3 +1,13 @@
+## Training Progress: Original + EDA + ChatGPT Augmented DataSet
+- Epoch 0: F1 score of 0.5396498455200823 (trad F1 0.5072604065827687)
+- Epoch 1: F1 score of 0.6474543707973103 (trad F1 0.6088527551942187)
+- Epoch 3: F1 score of 0.6925260170293283 (trad F1 0.6432337434094904)
+- Epoch 5: F1 score of 0.6998123827392119 (trad F1 0.6590106007067138)
+- Epoch 6: F1 score of 0.7242647058823528 (trad F1 0.6798964624676446)
+
+- Best Recorded F1 score: 0.7242647058823528
+
+
 ## Training Progress: Original + EDA Augmented DataSet
 
 - Epoch 0: F1 score of 0.5250800426894343 (Traditional F1: 0.4979757085020244)
