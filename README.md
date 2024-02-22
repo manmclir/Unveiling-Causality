@@ -10,6 +10,9 @@
 - Run the code using the updated parameters num_aug=5 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.1 --alpha_rs=0.0
 - eda_2_output_cleaned_train_subtask2.txt is generated as the result of the eda augmentation
 
+## ChatGPT
+- Contains the notebook files that generate the ChatGPT dataset, the notebook files to process the data to create the final training dataset, and the datasets used in the BoschAI model training
+
  ## Data_Transformation
  - Run the code Data_Transformation.ipynb
  - Output file generated eda_2_output_transformed_train_subtask2.csv
