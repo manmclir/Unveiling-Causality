@@ -1,15 +1,15 @@
-Here is an explanation for file in this folder:
+## Here is an explanation for file in this folder:
 
-ChatGPT_experiment.ipynb:
+## ChatGPT_experiment.ipynb:
 This is a notebook that was used as a scratch pad to experiment with different ChatGPT prompts.
 
 There are two different functions that creates datasets: create_dataset and create_dataset_s 
 create_dataset inputs in 4 sentences for every prompt to ChatGPT and create_dataset_s only inputs in one sentence to the prompt. 
 
-Combine_O_EDA_ChatGPT.ipynb:
+## Combine_O_EDA_ChatGPT.ipynb:
 This notebook combines the EDA, ChatGPT, and original training dataset into one dataset that ready to be trained on BoschAI.
 
-Create_ChatGPT_Dataset.ipynb:
+## Create_ChatGPT_Dataset.ipynb:
 This notebook contains the functions that were used to prompt ChatGPT and generate the raw ChatGPT dataset.
 
 conv_s2: This function creates the part of the prompt which gives an example based on an entry of the original training dataset. The format is such: s = "Here is an example of the tags used in the appropriate scheme:\n" + sentence + "\nWhere the cause in the scheme is: " + cause + "\nThe effect in the scheme is: " + effect + "\nThe signal in the scheme is: " + signal + "\n"
@@ -24,7 +24,7 @@ query_Chat: This takes a prompt and prompts ChatGPT with the prompt given. The f
 
 
 
-Process_ChatGPT.ipynb:
+## Process_ChatGPT.ipynb:
 This notebook processes the raw ChatGPT generated dataset into datasets that can be used by the BoschAI model to train. 
 
 filter_dataframe_l: This takes in a df and a word list and removes every entry that does not have a word in the word list in the text column.
