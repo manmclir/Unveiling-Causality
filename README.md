@@ -1,4 +1,4 @@
-# Unveiling-Causality
+# EASY DATA AUGMENTATION
 
 ## Data_Cleaning
 - Run the code eda_data_cleaning.ipynb
@@ -17,7 +17,7 @@
  - Run the code Data_Transformation.ipynb
  - Output file generated eda_2_output_transformed_train_subtask2.csv
 
-## Overview
+## Overview Of Easy Data Augmentation
 
 ### Data Cleaning-1
 - Input File: train_subtask2_grouped.csv
